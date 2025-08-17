@@ -50,7 +50,7 @@ def find_big_movements(results_file="results.json",
 
         # check marketcap 1-day %
         val = latest.get("marketcap_change_1d_pct")
-        if val is not None and abs(val) >= threshold_1d:
+        if val is not None and abs(val) >= 10:
             crossed = True
             # reason = "marketcap 1d"
 
@@ -62,7 +62,7 @@ def find_big_movements(results_file="results.json",
 
         # check marketcap 7-day %
         val = latest.get("marketcap_change_7d_pct")
-        if val is not None and abs(val) >= threshold_7d:
+        if val is not None and abs(val) >= 20:
             crossed = True
             # reason = "marketcap 7d"
 
