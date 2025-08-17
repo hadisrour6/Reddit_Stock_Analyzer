@@ -42,17 +42,29 @@ def find_big_movements(results_file="results.json",
 
         crossed = False
 
-        # check 1-day %
-        for k in ["subreddit_change_1d_pct", "marketcap_change_1d_pct"]:
-            val = latest.get(k)
-            if val is not None and abs(val) >= threshold_1d:
-                crossed = True
+        # check subreddit 1-day %
+        val = latest.get("subreddit_change_1d_pct")
+        if val is not None and abs(val) >= threshold_1d:
+            crossed = True
+            # optionally: record reason = "subreddit 1d"
 
-        # check 7-day %
-        for k in ["subreddit_change_7d_pct", "marketcap_change_7d_pct"]:
-            val = latest.get(k)
-            if val is not None and abs(val) >= threshold_7d:
-                crossed = True
+        # check marketcap 1-day %
+        val = latest.get("marketcap_change_1d_pct")
+        if val is not None and abs(val) >= threshold_1d:
+            crossed = True
+            # reason = "marketcap 1d"
+
+        # check subreddit 7-day %
+        val = latest.get("subreddit_change_7d_pct")
+        if val is not None and abs(val) >= threshold_7d:
+            crossed = True
+            # reason = "subreddit 7d"
+
+        # check marketcap 7-day %
+        val = latest.get("marketcap_change_7d_pct")
+        if val is not None and abs(val) >= threshold_7d:
+            crossed = True
+            # reason = "marketcap 7d"
 
         if crossed:
             # only insert the latest snapshot

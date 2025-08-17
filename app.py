@@ -6,9 +6,9 @@ from git_commit import *
 
 import time
 if __name__ == '__main__':
-    exec()
-    time.sleep(6)
-    main()
+    # exec()
+    # time.sleep(6)
+    # main()
     x = find_big_movements(threshold_1d=5.0, threshold_7d=5.0)
 
     if x == 1:
