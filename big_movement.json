@@ -1,3 +1,15 @@
 {
-    "2025-08-17": {}
+    "2025-08-17": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 3080,
+            "timestamp": "2025-08-17 18:38:40",
+            "ticker": "RDW",
+            "current_market_cap": 1287720000,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 25,
+            "marketcap_change_7d_pct": null
+        }
+    }
 }
