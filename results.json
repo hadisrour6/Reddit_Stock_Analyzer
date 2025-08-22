@@ -1,0 +1,272 @@
+{
+    "PlanetLabs": {
+        "history": [
+            {
+                "subreddit_Name": "PlanetLabs",
+                "subreddit_Count": 3179,
+                "timestamp": "2025-08-21 21:46:35",
+                "ticker": "PL",
+                "current_market_cap": 1966232386,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "IridiumCommunications": {
+        "history": [
+            {
+                "subreddit_Name": "IridiumCommunications",
+                "subreddit_Count": 7,
+                "timestamp": "2025-08-21 21:46:35",
+                "ticker": "IRDM",
+                "current_market_cap": 2561589991,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "redwire": {
+        "history": [
+            {
+                "subreddit_Name": "redwire",
+                "subreddit_Count": 3112,
+                "timestamp": "2025-08-21 21:46:35",
+                "ticker": "RDW",
+                "current_market_cap": 1253147383,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "Viasat": {
+        "history": [
+            {
+                "subreddit_Name": "Viasat",
+                "subreddit_Count": 760,
+                "timestamp": "2025-08-21 21:46:36",
+                "ticker": "VSAT",
+                "current_market_cap": 3573406008,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "GSAT": {
+        "history": [
+            {
+                "subreddit_Name": "GSAT",
+                "subreddit_Count": 7072,
+                "timestamp": "2025-08-21 21:46:36",
+                "ticker": "GSAT",
+                "current_market_cap": 3256756277,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "BBIO": {
+        "history": [
+            {
+                "subreddit_Name": "BBIO",
+                "subreddit_Count": 93,
+                "timestamp": "2025-08-21 21:46:37",
+                "ticker": "BBIO",
+                "current_market_cap": 9602394105,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "exactsciences": {
+        "history": [
+            {
+                "subreddit_Name": "exactsciences",
+                "subreddit_Count": 321,
+                "timestamp": "2025-08-21 21:46:37",
+                "ticker": "EXAS",
+                "current_market_cap": 8837415917,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "ArcturusTherapeutics": {
+        "history": [
+            {
+                "subreddit_Name": "ArcturusTherapeutics",
+                "subreddit_Count": 22,
+                "timestamp": "2025-08-21 21:46:38",
+                "ticker": "ARCT",
+                "current_market_cap": 474661193,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "IntelliaTherapeutics": {
+        "history": [
+            {
+                "subreddit_Name": "IntelliaTherapeutics",
+                "subreddit_Count": 673,
+                "timestamp": "2025-08-21 21:46:38",
+                "ticker": "NTLA",
+                "current_market_cap": 1086887221,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "ionis": {
+        "history": [
+            {
+                "subreddit_Name": "ionis",
+                "subreddit_Count": 1,
+                "timestamp": "2025-08-21 21:46:39",
+                "ticker": "IONS",
+                "current_market_cap": 6891280281,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "Vikingtherapeutics": {
+        "history": [
+            {
+                "subreddit_Name": "Vikingtherapeutics",
+                "subreddit_Count": 210,
+                "timestamp": "2025-08-21 21:46:39",
+                "ticker": "VKTX",
+                "current_market_cap": 2885337773,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "sofi": {
+        "history": [
+            {
+                "subreddit_Name": "sofi",
+                "subreddit_Count": 55954,
+                "timestamp": "2025-08-21 21:46:40",
+                "ticker": "SOFI",
+                "current_market_cap": 27655044231,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "CleanSpark": {
+        "history": [
+            {
+                "subreddit_Name": "CleanSpark",
+                "subreddit_Count": 5050,
+                "timestamp": "2025-08-21 21:46:40",
+                "ticker": "CLSK",
+                "current_market_cap": 2622507816,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "talosenergy": {
+        "history": [
+            {
+                "subreddit_Name": "talosenergy",
+                "subreddit_Count": 27,
+                "timestamp": "2025-08-21 21:46:41",
+                "ticker": "TALO",
+                "current_market_cap": 1517778227,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "BlackskyTechnology": {
+        "history": [
+            {
+                "subreddit_Name": "BlackskyTechnology",
+                "subreddit_Count": 858,
+                "timestamp": "2025-08-21 21:46:41",
+                "ticker": "BKSY",
+                "current_market_cap": 579135530,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "ONDS": {
+        "history": [
+            {
+                "subreddit_Name": "ONDS",
+                "subreddit_Count": 2391,
+                "timestamp": "2025-08-21 21:46:42",
+                "ticker": "ONDS",
+                "current_market_cap": 1034596820,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "ABCL": {
+        "history": [
+            {
+                "subreddit_Name": "ABCL",
+                "subreddit_Count": 730,
+                "timestamp": "2025-08-21 21:46:42",
+                "ticker": "ABCL",
+                "current_market_cap": 1284981563,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    },
+    "ROOTStonk": {
+        "history": [
+            {
+                "subreddit_Name": "ROOTStonk",
+                "subreddit_Count": 469,
+                "timestamp": "2025-08-21 21:46:42",
+                "ticker": "ROOT",
+                "current_market_cap": 1360755642,
+                "subreddit_change_1d_pct": null,
+                "marketcap_change_1d_pct": null,
+                "subreddit_change_7d_pct": null,
+                "marketcap_change_7d_pct": null
+            }
+        ]
+    }
+}
