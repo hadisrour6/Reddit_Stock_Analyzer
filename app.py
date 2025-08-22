@@ -11,6 +11,7 @@ if __name__ == '__main__':
     main()
     x = find_big_movements(threshold_1d=5.0, threshold_7d=5.0)
 
-    if x == 1:
-        git_push("big_movement.json", "Auto-update big_movement.json")
+    git_push("tracker.json", "Auto-update big_movement.json")
+    git_push("results.json", "Auto-update big_movement.json")
+    git_push("big_movement.json", "Auto-update big_movement.json")
 
