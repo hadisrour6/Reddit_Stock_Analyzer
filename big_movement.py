@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from datetime import datetime, UTC
+from datetime import datetime, timezone
 
 def find_big_movements(results_file="results.json",
                        output_file="big_movement.json",
@@ -28,7 +28,7 @@ def find_big_movements(results_file="results.json",
             print("⚠️ big_movement.json was invalid, starting fresh")
             big_moves = {}
 
-    today = datetime.now(UTC).strftime("%Y-%m-%d")
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     if today not in big_moves:
         big_moves[today] = {}
 
