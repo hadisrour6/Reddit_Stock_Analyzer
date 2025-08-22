@@ -44,7 +44,7 @@ def process_history(history):
 
 
 def main():
-    tracker_path = Path("scalping/tracker.json")
+    tracker_path = Path("tracker.json")
     results_path = Path("results.json")
 
     with tracker_path.open("r", encoding="utf-8") as f:

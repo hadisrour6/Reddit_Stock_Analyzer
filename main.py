@@ -6,7 +6,7 @@ from market_cap_getter import *
 
 FILENAME = Path("subreddits.json")
 
-def main():
+def exec():
     if FILENAME.exists():
         with FILENAME.open("r", encoding="utf-8") as f:
             try:
@@ -22,5 +22,5 @@ def main():
         add_snapshot(final_snapshot)
 
 if __name__ == "__main__":
-    main()
+    exec()
 
