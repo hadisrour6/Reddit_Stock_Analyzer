@@ -10,4 +10,4 @@ export LC_ALL=C.UTF-8
 cd /home/pi/Desktop/stock_reddit_analyzer/Reddit_stock_Analyzer
 
 # Run app + log stdout/stderr
-/usr/bin/python3 app.py >> /home/pi/Desktop/stock_reddit_analyzer/Reddit_stock_Analyzer/app.log 2>&1
+/usr/bin/python3 app.py >> /home/pi/Desktop/app.log 2>&1
