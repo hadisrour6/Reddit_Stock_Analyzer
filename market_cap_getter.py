@@ -1,25 +1,8 @@
-# import requests
-#
-#
-# def get_market_cap(symbol):
-#     url = f'https://www.alphavantage.co/query?function=OVERVIEW&symbol={symbol}&interval=5min&apikey=1QJXQB6AM45U1BZE'
-#     r = requests.get(url)
-#     data = r.json()
-#     return data["MarketCapitalization"]
-#
-# def test(company_name):
-#     url = f"https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords={company_name}&apikey=1QJXQB6AM45U1BZE"
-#     r = requests.get(url)
-#     data = r.json()
-#     return data
-#
-# def market_cap_formatter(num):
-#     return f"{num:,}"
-#
-#
 import requests
+from dotenv import load_dotenv
+import os
 
-API_KEY = "d2h2st1r01qon4ea8i90d2h2st1r01qon4ea8i9g"
+API_KEY = os.getenv('API_KEY')
 
 def get_symbol(company_name: str):
     """Search for the stock ticker symbol using a company name."""
