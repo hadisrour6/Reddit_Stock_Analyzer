@@ -1,7 +1,8 @@
 import requests
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
 
+load_dotenv()
 API_KEY = os.getenv('API_KEY')
 
 def get_symbol(company_name: str):
@@ -26,6 +27,12 @@ def market_cap_formatter(num: float) -> str:
     """Format numbers with commas."""
     return f"{int(num):,}" if num is not None else "N/A"
 
-
-
-get_market_cap("PL")
+def get_current_price(symbol:str):
+    """Get market cap given a stock ticker symbol."""
+    url = f"https://finnhub.io/api/v1/stock/profile2?symbol={symbol}&token={API_KEY}"
+    r = requests.get(url)
+    r.raise_for_status()
+    data = r.json()
+    market_cap = float(data.get("marketCapitalization"))
+    shares_outstanding = float(data.get("shareOutstanding"))
+    return round((market_cap/shares_outstanding),2)

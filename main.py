@@ -18,6 +18,7 @@ def exec():
         final_snapshot = scrape_subscribers(subreddit)
         final_snapshot['ticker'] = data[subreddit]
         final_snapshot['current_market_cap'] = get_market_cap(final_snapshot['ticker'])
+        final_snapshot["current_price"] = get_current_price(final_snapshot['ticker'])
 
         add_snapshot(final_snapshot)
 

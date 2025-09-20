@@ -3,6 +3,7 @@ from main import *
 from change_algorithm import *
 from big_movement import *
 from git_commit import *
+from email_sender import *
 
 import time
 if __name__ == '__main__':
@@ -14,4 +15,6 @@ if __name__ == '__main__':
     git_push("tracker.json", "Auto-update big_movement.json")
     git_push("results.json", "Auto-update big_movement.json")
     git_push("big_movement.json", "Auto-update big_movement.json")
+
+    send_updates()
 
