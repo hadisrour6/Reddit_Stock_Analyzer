@@ -1,5 +1,43 @@
 {
     "2025-09-20": {},
     "2025-09-21": {},
-    "2025-09-22": {}
+    "2025-09-22": {},
+    "2025-09-23": {
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 685,
+            "timestamp": "2025-09-23 15:30:07",
+            "ticker": "NTLA",
+            "current_market_cap": 1852807264,
+            "current_price": 17.26,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 10.71,
+            "subreddit_change_7d_pct": null,
+            "marketcap_change_7d_pct": null
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 3542,
+            "timestamp": "2025-09-23 15:30:14",
+            "ticker": "APLD",
+            "current_market_cap": 6394159111,
+            "current_price": 24.4,
+            "subreddit_change_1d_pct": 2.79,
+            "marketcap_change_1d_pct": 19.38,
+            "subreddit_change_7d_pct": null,
+            "marketcap_change_7d_pct": null
+        },
+        "UiPath": {
+            "subreddit_Name": "UiPath",
+            "subreddit_Count": 8089,
+            "timestamp": "2025-09-23 15:30:17",
+            "ticker": "PATH",
+            "current_market_cap": 6977624501,
+            "current_price": 13.14,
+            "subreddit_change_1d_pct": 0.25,
+            "marketcap_change_1d_pct": 10.7,
+            "subreddit_change_7d_pct": null,
+            "marketcap_change_7d_pct": null
+        }
+    }
 }
