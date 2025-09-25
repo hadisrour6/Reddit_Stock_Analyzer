@@ -65,5 +65,19 @@
             "subreddit_change_7d_pct": null,
             "marketcap_change_7d_pct": null
         }
+    },
+    "2025-09-25": {
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 3776,
+            "timestamp": "2025-09-25 15:30:14",
+            "ticker": "BITF",
+            "current_market_cap": 1972780569,
+            "current_price": 3.55,
+            "subreddit_change_1d_pct": 0.4,
+            "marketcap_change_1d_pct": -15.4,
+            "subreddit_change_7d_pct": null,
+            "marketcap_change_7d_pct": null
+        }
     }
 }
