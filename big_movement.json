@@ -230,5 +230,79 @@
             "subreddit_change_7d_pct": 5.78,
             "marketcap_change_7d_pct": -3.4
         }
+    },
+    "2025-09-30": {
+        "ArcturusTherapeutics": {
+            "subreddit_Name": "ArcturusTherapeutics",
+            "subreddit_Count": 23,
+            "timestamp": "2025-09-30 15:30:06",
+            "ticker": "ARCT",
+            "current_market_cap": 509962067,
+            "current_price": 18.78,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -15.29,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -10.7
+        },
+        "Vikingtherapeutics": {
+            "subreddit_Name": "Vikingtherapeutics",
+            "subreddit_Count": 284,
+            "timestamp": "2025-09-30 15:30:08",
+            "ticker": "VKTX",
+            "current_market_cap": 2902204422,
+            "current_price": 25.81,
+            "subreddit_change_1d_pct": 0.71,
+            "marketcap_change_1d_pct": 0.94,
+            "subreddit_change_7d_pct": 6.37,
+            "marketcap_change_7d_pct": -1.68
+        },
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5214,
+            "timestamp": "2025-09-30 15:30:09",
+            "ticker": "CLSK",
+            "current_market_cap": 4179709783,
+            "current_price": 14.87,
+            "subreddit_change_1d_pct": 0.08,
+            "marketcap_change_1d_pct": 14.74,
+            "subreddit_change_7d_pct": 0.31,
+            "marketcap_change_7d_pct": 8.22
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 4090,
+            "timestamp": "2025-09-30 15:30:11",
+            "ticker": "ONDS",
+            "current_market_cap": 2525803532,
+            "current_price": 7.73,
+            "subreddit_change_1d_pct": 0.99,
+            "marketcap_change_1d_pct": 2.74,
+            "subreddit_change_7d_pct": 6.48,
+            "marketcap_change_7d_pct": 8.4
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 3778,
+            "timestamp": "2025-09-30 15:30:14",
+            "ticker": "APLD",
+            "current_market_cap": 5792663456,
+            "current_price": 22.11,
+            "subreddit_change_1d_pct": 0.59,
+            "marketcap_change_1d_pct": 2.03,
+            "subreddit_change_7d_pct": 6.66,
+            "marketcap_change_7d_pct": -9.41
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 351,
+            "timestamp": "2025-09-30 15:30:18",
+            "ticker": "PGY",
+            "current_market_cap": 2433083506,
+            "current_price": 31.76,
+            "subreddit_change_1d_pct": 2.63,
+            "marketcap_change_1d_pct": -8.31,
+            "subreddit_change_7d_pct": 6.36,
+            "marketcap_change_7d_pct": -23.1
+        }
     }
 }
