@@ -304,5 +304,67 @@
             "subreddit_change_7d_pct": 6.36,
             "marketcap_change_7d_pct": -23.1
         }
+    },
+    "2025-10-01": {
+        "Vikingtherapeutics": {
+            "subreddit_Name": "Vikingtherapeutics",
+            "subreddit_Count": 285,
+            "timestamp": "2025-10-01 15:30:10",
+            "ticker": "VKTX",
+            "current_market_cap": 2955053667,
+            "current_price": 26.28,
+            "subreddit_change_1d_pct": 0.35,
+            "marketcap_change_1d_pct": 1.82,
+            "subreddit_change_7d_pct": 7.14,
+            "marketcap_change_7d_pct": 5.25
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 4119,
+            "timestamp": "2025-10-01 15:30:13",
+            "ticker": "ONDS",
+            "current_market_cap": 2477662405,
+            "current_price": 7.58,
+            "subreddit_change_1d_pct": 0.71,
+            "marketcap_change_1d_pct": -1.91,
+            "subreddit_change_7d_pct": 5.72,
+            "marketcap_change_7d_pct": -2.03
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 3815,
+            "timestamp": "2025-10-01 15:30:16",
+            "ticker": "APLD",
+            "current_market_cap": 5999264487,
+            "current_price": 22.28,
+            "subreddit_change_1d_pct": 0.98,
+            "marketcap_change_1d_pct": 3.57,
+            "subreddit_change_7d_pct": 6.15,
+            "marketcap_change_7d_pct": -7.01
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 3843,
+            "timestamp": "2025-10-01 15:30:17",
+            "ticker": "BITF",
+            "current_market_cap": 2171716502,
+            "current_price": 3.9,
+            "subreddit_change_1d_pct": 0.18,
+            "marketcap_change_1d_pct": 10.39,
+            "subreddit_change_7d_pct": 2.18,
+            "marketcap_change_7d_pct": -6.87
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 362,
+            "timestamp": "2025-10-01 15:30:21",
+            "ticker": "PGY",
+            "current_market_cap": 2274504153,
+            "current_price": 29.69,
+            "subreddit_change_1d_pct": 3.13,
+            "marketcap_change_1d_pct": -6.52,
+            "subreddit_change_7d_pct": 9.37,
+            "marketcap_change_7d_pct": -21.16
+        }
     }
 }
