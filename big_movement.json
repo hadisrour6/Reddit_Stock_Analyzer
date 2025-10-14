@@ -1854,5 +1854,79 @@
             "subreddit_change_7d_pct": 12.69,
             "marketcap_change_7d_pct": -7.52
         }
+    },
+    "2025-10-14": {
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 4744,
+            "timestamp": "2025-10-14 15:30:14",
+            "ticker": "ONDS",
+            "current_market_cap": 3774516737,
+            "current_price": 10.81,
+            "subreddit_change_1d_pct": 0.81,
+            "marketcap_change_1d_pct": 17.26,
+            "subreddit_change_7d_pct": 6.37,
+            "marketcap_change_7d_pct": 10.33
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 4607,
+            "timestamp": "2025-10-14 15:30:17",
+            "ticker": "APLD",
+            "current_market_cap": 9576445092,
+            "current_price": 34.24,
+            "subreddit_change_1d_pct": 1.81,
+            "marketcap_change_1d_pct": 7.73,
+            "subreddit_change_7d_pct": 12.64,
+            "marketcap_change_7d_pct": 32.15
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4021,
+            "timestamp": "2025-10-14 15:30:18",
+            "ticker": "BITF",
+            "current_market_cap": 3238233785,
+            "current_price": 5.76,
+            "subreddit_change_1d_pct": 0.95,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 3.34,
+            "marketcap_change_7d_pct": 39.52
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 2810,
+            "timestamp": "2025-10-14 15:30:18",
+            "ticker": "UAMY",
+            "current_market_cap": 2249047290,
+            "current_price": 16.19,
+            "subreddit_change_1d_pct": 8.49,
+            "marketcap_change_1d_pct": 36.86,
+            "subreddit_change_7d_pct": 27.73,
+            "marketcap_change_7d_pct": 115.96
+        },
+        "Tigr_Stock": {
+            "subreddit_Name": "Tigr_Stock",
+            "subreddit_Count": 126,
+            "timestamp": "2025-10-14 15:30:21",
+            "ticker": "TIGR",
+            "current_market_cap": 1602871957,
+            "current_price": 0.6,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -11.31,
+            "subreddit_change_7d_pct": 0.8,
+            "marketcap_change_7d_pct": -11.48
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 447,
+            "timestamp": "2025-10-14 15:30:22",
+            "ticker": "PGY",
+            "current_market_cap": 2142737663,
+            "current_price": 27.97,
+            "subreddit_change_1d_pct": 0.68,
+            "marketcap_change_1d_pct": 2.87,
+            "subreddit_change_7d_pct": 11.47,
+            "marketcap_change_7d_pct": -5.67
+        }
     }
 }
