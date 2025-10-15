@@ -1928,5 +1928,115 @@
             "subreddit_change_7d_pct": 11.47,
             "marketcap_change_7d_pct": -5.67
         }
+    },
+    "2025-10-15": {
+        "ArcturusTherapeutics": {
+            "subreddit_Name": "ArcturusTherapeutics",
+            "subreddit_Count": 23,
+            "timestamp": "2025-10-15 15:30:13",
+            "ticker": "ARCT",
+            "current_market_cap": 591968744,
+            "current_price": 21.8,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 12.43,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": 6.71
+        },
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 709,
+            "timestamp": "2025-10-15 15:30:18",
+            "ticker": "NTLA",
+            "current_market_cap": 2704604741,
+            "current_price": 25.19,
+            "subreddit_change_1d_pct": 0.14,
+            "marketcap_change_1d_pct": 6.04,
+            "subreddit_change_7d_pct": 1.0,
+            "marketcap_change_7d_pct": 20.9
+        },
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5349,
+            "timestamp": "2025-10-15 15:30:29",
+            "ticker": "CLSK",
+            "current_market_cap": 6268159109,
+            "current_price": 22.3,
+            "subreddit_change_1d_pct": 0.39,
+            "marketcap_change_1d_pct": 11.28,
+            "subreddit_change_7d_pct": 1.63,
+            "marketcap_change_7d_pct": 19.14
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 906,
+            "timestamp": "2025-10-15 15:30:31",
+            "ticker": "BKSY",
+            "current_market_cap": 1113990084,
+            "current_price": 31.42,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 10.99,
+            "subreddit_change_7d_pct": 0.22,
+            "marketcap_change_7d_pct": 1.62
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 4788,
+            "timestamp": "2025-10-15 15:30:32",
+            "ticker": "ONDS",
+            "current_market_cap": 3348530429,
+            "current_price": 9.59,
+            "subreddit_change_1d_pct": 0.93,
+            "marketcap_change_1d_pct": -11.29,
+            "subreddit_change_7d_pct": 6.0,
+            "marketcap_change_7d_pct": -4.1
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 4675,
+            "timestamp": "2025-10-15 15:30:36",
+            "ticker": "APLD",
+            "current_market_cap": 10580517213,
+            "current_price": 37.83,
+            "subreddit_change_1d_pct": 1.48,
+            "marketcap_change_1d_pct": 10.48,
+            "subreddit_change_7d_pct": 13.33,
+            "marketcap_change_7d_pct": 50.4
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4040,
+            "timestamp": "2025-10-15 15:30:38",
+            "ticker": "BITF",
+            "current_market_cap": 4564472900,
+            "current_price": 8.12,
+            "subreddit_change_1d_pct": 0.47,
+            "marketcap_change_1d_pct": 40.96,
+            "subreddit_change_7d_pct": 3.51,
+            "marketcap_change_7d_pct": 70.31
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 2942,
+            "timestamp": "2025-10-15 15:30:39",
+            "ticker": "UAMY",
+            "current_market_cap": 2112340422,
+            "current_price": 15.21,
+            "subreddit_change_1d_pct": 4.7,
+            "marketcap_change_1d_pct": -6.08,
+            "subreddit_change_7d_pct": 31.05,
+            "marketcap_change_7d_pct": 68.73
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 451,
+            "timestamp": "2025-10-15 15:30:44",
+            "ticker": "PGY",
+            "current_market_cap": 2262246810,
+            "current_price": 29.53,
+            "subreddit_change_1d_pct": 0.89,
+            "marketcap_change_1d_pct": 5.58,
+            "subreddit_change_7d_pct": 10.0,
+            "marketcap_change_7d_pct": 0.31
+        }
     }
 }
