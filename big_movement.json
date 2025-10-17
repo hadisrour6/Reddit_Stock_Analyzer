@@ -2112,5 +2112,67 @@
             "subreddit_change_7d_pct": 8.37,
             "marketcap_change_7d_pct": -4.4
         }
+    },
+    "2025-10-17": {
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 4894,
+            "timestamp": "2025-10-17 15:30:12",
+            "ticker": "ONDS",
+            "current_market_cap": 2707805344,
+            "current_price": 7.76,
+            "subreddit_change_1d_pct": 1.09,
+            "marketcap_change_1d_pct": -4.09,
+            "subreddit_change_7d_pct": 5.72,
+            "marketcap_change_7d_pct": -21.68
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 4778,
+            "timestamp": "2025-10-17 15:30:15",
+            "ticker": "APLD",
+            "current_market_cap": 9289207063,
+            "current_price": 33.21,
+            "subreddit_change_1d_pct": 0.84,
+            "marketcap_change_1d_pct": -12.57,
+            "subreddit_change_7d_pct": 9.46,
+            "marketcap_change_7d_pct": 21.27
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4096,
+            "timestamp": "2025-10-17 15:30:15",
+            "ticker": "BITF",
+            "current_market_cap": 4094763021,
+            "current_price": 7.28,
+            "subreddit_change_1d_pct": 0.61,
+            "marketcap_change_1d_pct": -18.57,
+            "subreddit_change_7d_pct": 3.75,
+            "marketcap_change_7d_pct": 32.8
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 3101,
+            "timestamp": "2025-10-17 15:30:16",
+            "ticker": "UAMY",
+            "current_market_cap": 1518843701,
+            "current_price": 10.94,
+            "subreddit_change_1d_pct": 2.07,
+            "marketcap_change_1d_pct": -13.27,
+            "subreddit_change_7d_pct": 31.68,
+            "marketcap_change_7d_pct": 8.45
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 458,
+            "timestamp": "2025-10-17 15:30:19",
+            "ticker": "PGY",
+            "current_market_cap": 2079535729,
+            "current_price": 27.14,
+            "subreddit_change_1d_pct": 1.1,
+            "marketcap_change_1d_pct": -6.04,
+            "subreddit_change_7d_pct": 8.27,
+            "marketcap_change_7d_pct": -10.47
+        }
     }
 }
