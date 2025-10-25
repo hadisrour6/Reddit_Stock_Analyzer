@@ -2632,5 +2632,55 @@
             "subreddit_change_7d_pct": 7.32,
             "marketcap_change_7d_pct": 7.26
         }
+    },
+    "2025-10-25": {
+        "ArcturusTherapeutics": {
+            "subreddit_Name": "ArcturusTherapeutics",
+            "subreddit_Count": 25,
+            "timestamp": "2025-10-25 15:30:07",
+            "ticker": "ARCT",
+            "current_market_cap": 304673821,
+            "current_price": 11.22,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -6.5,
+            "subreddit_change_7d_pct": 8.7,
+            "marketcap_change_7d_pct": -45.69
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 5073,
+            "timestamp": "2025-10-25 15:30:15",
+            "ticker": "APLD",
+            "current_market_cap": 9349899353,
+            "current_price": 33.43,
+            "subreddit_change_1d_pct": 0.46,
+            "marketcap_change_1d_pct": 0.15,
+            "subreddit_change_7d_pct": 5.56,
+            "marketcap_change_7d_pct": -2.37
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4191,
+            "timestamp": "2025-10-25 15:30:16",
+            "ticker": "BITF",
+            "current_market_cap": 3216129821,
+            "current_price": 5.72,
+            "subreddit_change_1d_pct": 0.17,
+            "marketcap_change_1d_pct": 5.43,
+            "subreddit_change_7d_pct": 1.97,
+            "marketcap_change_7d_pct": -21.46
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 3409,
+            "timestamp": "2025-10-25 15:30:17",
+            "ticker": "UAMY",
+            "current_market_cap": 1667929551,
+            "current_price": 12.01,
+            "subreddit_change_1d_pct": 2.43,
+            "marketcap_change_1d_pct": 2.39,
+            "subreddit_change_7d_pct": 8.71,
+            "marketcap_change_7d_pct": 7.33
+        }
     }
 }
