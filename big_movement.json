@@ -2782,5 +2782,67 @@
             "subreddit_change_7d_pct": 8.87,
             "marketcap_change_7d_pct": 7.33
         }
+    },
+    "2025-10-28": {
+        "BBIO": {
+            "subreddit_Name": "BBIO",
+            "subreddit_Count": 94,
+            "timestamp": "2025-10-28 15:30:07",
+            "ticker": "BBIO",
+            "current_market_cap": 12150669922,
+            "current_price": 63.56,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 17.14,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": 12.99
+        },
+        "ArcturusTherapeutics": {
+            "subreddit_Name": "ArcturusTherapeutics",
+            "subreddit_Count": 25,
+            "timestamp": "2025-10-28 15:30:09",
+            "ticker": "ARCT",
+            "current_market_cap": 287566466,
+            "current_price": 10.59,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -5.61,
+            "subreddit_change_7d_pct": 8.7,
+            "marketcap_change_7d_pct": -50.77
+        },
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 730,
+            "timestamp": "2025-10-28 15:30:10",
+            "ticker": "NTLA",
+            "current_market_cap": 1587660400,
+            "current_price": 14.79,
+            "subreddit_change_1d_pct": 1.11,
+            "marketcap_change_1d_pct": -42.23,
+            "subreddit_change_7d_pct": 2.24,
+            "marketcap_change_7d_pct": -47.14
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 5153,
+            "timestamp": "2025-10-28 15:30:19",
+            "ticker": "APLD",
+            "current_market_cap": 9607209961,
+            "current_price": 34.35,
+            "subreddit_change_1d_pct": 0.57,
+            "marketcap_change_1d_pct": 2.75,
+            "subreddit_change_7d_pct": 5.25,
+            "marketcap_change_7d_pct": -4.32
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 3519,
+            "timestamp": "2025-10-28 15:30:21",
+            "ticker": "UAMY",
+            "current_market_cap": 1329066406,
+            "current_price": 9.57,
+            "subreddit_change_1d_pct": 0.92,
+            "marketcap_change_1d_pct": -20.32,
+            "subreddit_change_7d_pct": 8.28,
+            "marketcap_change_7d_pct": -28.74
+        }
     }
 }
