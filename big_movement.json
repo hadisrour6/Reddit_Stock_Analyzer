@@ -2844,5 +2844,55 @@
             "subreddit_change_7d_pct": 8.28,
             "marketcap_change_7d_pct": -28.74
         }
+    },
+    "2025-10-29": {
+        "BBIO": {
+            "subreddit_Name": "BBIO",
+            "subreddit_Count": 94,
+            "timestamp": "2025-10-29 15:30:08",
+            "ticker": "BBIO",
+            "current_market_cap": 12330368164,
+            "current_price": 64.5,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 1.48,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": 20.76
+        },
+        "ArcturusTherapeutics": {
+            "subreddit_Name": "ArcturusTherapeutics",
+            "subreddit_Count": 25,
+            "timestamp": "2025-10-29 15:30:10",
+            "ticker": "ARCT",
+            "current_market_cap": 268286743,
+            "current_price": 9.88,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -6.7,
+            "subreddit_change_7d_pct": 4.17,
+            "marketcap_change_7d_pct": -57.34
+        },
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 734,
+            "timestamp": "2025-10-29 15:30:11",
+            "ticker": "NTLA",
+            "current_market_cap": 1498562500,
+            "current_price": 13.96,
+            "subreddit_change_1d_pct": 0.55,
+            "marketcap_change_1d_pct": -5.61,
+            "subreddit_change_7d_pct": 2.66,
+            "marketcap_change_7d_pct": -43.4
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 3549,
+            "timestamp": "2025-10-29 15:30:27",
+            "ticker": "UAMY",
+            "current_market_cap": 1269348755,
+            "current_price": 9.14,
+            "subreddit_change_1d_pct": 0.85,
+            "marketcap_change_1d_pct": -4.49,
+            "subreddit_change_7d_pct": 8.23,
+            "marketcap_change_7d_pct": -23.8
+        }
     }
 }
