@@ -2944,5 +2944,43 @@
             "subreddit_change_7d_pct": 8.5,
             "marketcap_change_7d_pct": -29.65
         }
+    },
+    "2025-10-31": {
+        "GSAT": {
+            "subreddit_Name": "GSAT",
+            "subreddit_Count": 7147,
+            "timestamp": "2025-10-31 15:30:04",
+            "ticker": "GSAT",
+            "current_market_cap": 6432441824,
+            "current_price": 50.78,
+            "subreddit_change_1d_pct": 0.22,
+            "marketcap_change_1d_pct": 22.24,
+            "subreddit_change_7d_pct": 0.37,
+            "marketcap_change_7d_pct": 15.25
+        },
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 739,
+            "timestamp": "2025-10-31 15:30:07",
+            "ticker": "NTLA",
+            "current_market_cap": 1316609590,
+            "current_price": 12.26,
+            "subreddit_change_1d_pct": 0.41,
+            "marketcap_change_1d_pct": -6.52,
+            "subreddit_change_7d_pct": 3.07,
+            "marketcap_change_7d_pct": -52.63
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 3629,
+            "timestamp": "2025-10-31 15:30:16",
+            "ticker": "UAMY",
+            "current_market_cap": 1158245900,
+            "current_price": 8.34,
+            "subreddit_change_1d_pct": 1.23,
+            "marketcap_change_1d_pct": -0.71,
+            "subreddit_change_7d_pct": 9.04,
+            "marketcap_change_7d_pct": -28.9
+        }
     }
 }
