@@ -3108,5 +3108,43 @@
             "subreddit_change_7d_pct": 6.68,
             "marketcap_change_7d_pct": -32.81
         }
+    },
+    "2025-11-04": {
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 5431,
+            "timestamp": "2025-11-04 15:30:13",
+            "ticker": "ONDS",
+            "current_market_cap": 2261039990,
+            "current_price": 6.48,
+            "subreddit_change_1d_pct": 0.61,
+            "marketcap_change_1d_pct": -4.5,
+            "subreddit_change_7d_pct": 5.29,
+            "marketcap_change_7d_pct": -14.0
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 3750,
+            "timestamp": "2025-11-04 15:30:17",
+            "ticker": "UAMY",
+            "current_market_cap": 977703950,
+            "current_price": 7.04,
+            "subreddit_change_1d_pct": 0.81,
+            "marketcap_change_1d_pct": -12.76,
+            "subreddit_change_7d_pct": 6.56,
+            "marketcap_change_7d_pct": -26.44
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 508,
+            "timestamp": "2025-11-04 15:30:21",
+            "ticker": "PGY",
+            "current_market_cap": 2010205031,
+            "current_price": 26.24,
+            "subreddit_change_1d_pct": 1.6,
+            "marketcap_change_1d_pct": -2.42,
+            "subreddit_change_7d_pct": 5.39,
+            "marketcap_change_7d_pct": -9.55
+        }
     }
 }
