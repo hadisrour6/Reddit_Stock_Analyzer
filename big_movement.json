@@ -3146,5 +3146,43 @@
             "subreddit_change_7d_pct": 5.39,
             "marketcap_change_7d_pct": -9.55
         }
+    },
+    "2025-11-05": {
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 3765,
+            "timestamp": "2025-11-05 15:30:17",
+            "ticker": "UAMY",
+            "current_market_cap": 967982438,
+            "current_price": 6.97,
+            "subreddit_change_1d_pct": 0.4,
+            "marketcap_change_1d_pct": -0.99,
+            "subreddit_change_7d_pct": 6.09,
+            "marketcap_change_7d_pct": -23.74
+        },
+        "UiPath": {
+            "subreddit_Name": "UiPath",
+            "subreddit_Count": 8420,
+            "timestamp": "2025-11-05 15:30:18",
+            "ticker": "PATH",
+            "current_market_cap": 7577679283,
+            "current_price": 14.27,
+            "subreddit_change_1d_pct": 0.1,
+            "marketcap_change_1d_pct": -10.08,
+            "subreddit_change_7d_pct": 0.49,
+            "marketcap_change_7d_pct": -11.7
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 517,
+            "timestamp": "2025-11-05 15:30:20",
+            "ticker": "PGY",
+            "current_market_cap": 1927467938,
+            "current_price": 25.16,
+            "subreddit_change_1d_pct": 1.77,
+            "marketcap_change_1d_pct": -4.12,
+            "subreddit_change_7d_pct": 7.26,
+            "marketcap_change_7d_pct": -11.63
+        }
     }
 }
