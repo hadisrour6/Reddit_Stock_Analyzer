@@ -3370,5 +3370,43 @@
             "subreddit_change_7d_pct": 8.37,
             "marketcap_change_7d_pct": -9.07
         }
+    },
+    "2025-11-09": {
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 755,
+            "timestamp": "2025-11-09 15:30:08",
+            "ticker": "NTLA",
+            "current_market_cap": 1021942326,
+            "current_price": 9.52,
+            "subreddit_change_1d_pct": 0.27,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 1.89,
+            "marketcap_change_7d_pct": -24.56
+        },
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1036,
+            "timestamp": "2025-11-09 15:30:14",
+            "ticker": "ABCL",
+            "current_market_cap": 1168436756,
+            "current_price": 3.91,
+            "subreddit_change_1d_pct": 0.1,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 3.08,
+            "marketcap_change_7d_pct": -29.55
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 533,
+            "timestamp": "2025-11-09 15:30:21",
+            "ticker": "PGY",
+            "current_market_cap": 1873075920,
+            "current_price": 24.45,
+            "subreddit_change_1d_pct": 0.38,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 7.46,
+            "marketcap_change_7d_pct": -9.07
+        }
     }
 }
