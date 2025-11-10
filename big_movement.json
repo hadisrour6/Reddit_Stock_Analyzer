@@ -3408,5 +3408,43 @@
             "subreddit_change_7d_pct": 7.46,
             "marketcap_change_7d_pct": -9.07
         }
+    },
+    "2025-11-10": {
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1039,
+            "timestamp": "2025-11-10 15:30:15",
+            "ticker": "ABCL",
+            "current_market_cap": 1170400081,
+            "current_price": 3.92,
+            "subreddit_change_1d_pct": 0.29,
+            "marketcap_change_1d_pct": 0.17,
+            "subreddit_change_7d_pct": 2.77,
+            "marketcap_change_7d_pct": -29.43
+        },
+        "ROOTStonk": {
+            "subreddit_Name": "ROOTStonk",
+            "subreddit_Count": 528,
+            "timestamp": "2025-11-10 15:30:15",
+            "ticker": "ROOT",
+            "current_market_cap": 1344086241,
+            "current_price": 87.0,
+            "subreddit_change_1d_pct": 0.38,
+            "marketcap_change_1d_pct": 10.23,
+            "subreddit_change_7d_pct": 1.34,
+            "marketcap_change_7d_pct": 8.06
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 540,
+            "timestamp": "2025-11-10 15:30:22",
+            "ticker": "PGY",
+            "current_market_cap": 1873076028,
+            "current_price": 24.45,
+            "subreddit_change_1d_pct": 1.31,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 8.0,
+            "marketcap_change_7d_pct": -9.07
+        }
     }
 }
