@@ -3446,5 +3446,55 @@
             "subreddit_change_7d_pct": 8.0,
             "marketcap_change_7d_pct": -9.07
         }
+    },
+    "2025-11-11": {
+        "GSAT": {
+            "subreddit_Name": "GSAT",
+            "subreddit_Count": 7183,
+            "timestamp": "2025-11-11 15:30:05",
+            "ticker": "GSAT",
+            "current_market_cap": 7293816576,
+            "current_price": 57.58,
+            "subreddit_change_1d_pct": 0.07,
+            "marketcap_change_1d_pct": 14.06,
+            "subreddit_change_7d_pct": 0.21,
+            "marketcap_change_7d_pct": 14.29
+        },
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1043,
+            "timestamp": "2025-11-11 15:30:13",
+            "ticker": "ABCL",
+            "current_market_cap": 1206320288,
+            "current_price": 4.04,
+            "subreddit_change_1d_pct": 0.38,
+            "marketcap_change_1d_pct": 3.07,
+            "subreddit_change_7d_pct": 2.96,
+            "marketcap_change_7d_pct": -24.83
+        },
+        "mondaydotcom": {
+            "subreddit_Name": "mondaydotcom",
+            "subreddit_Count": 6149,
+            "timestamp": "2025-11-11 15:30:17",
+            "ticker": "MNDY",
+            "current_market_cap": 8439035765,
+            "current_price": 163.71,
+            "subreddit_change_1d_pct": 0.21,
+            "marketcap_change_1d_pct": -12.33,
+            "subreddit_change_7d_pct": 0.85,
+            "marketcap_change_7d_pct": -18.97
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 552,
+            "timestamp": "2025-11-11 15:30:20",
+            "ticker": "PGY",
+            "current_market_cap": 2112860402,
+            "current_price": 27.58,
+            "subreddit_change_1d_pct": 2.22,
+            "marketcap_change_1d_pct": 12.8,
+            "subreddit_change_7d_pct": 8.66,
+            "marketcap_change_7d_pct": 5.11
+        }
     }
 }
