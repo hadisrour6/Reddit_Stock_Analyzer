@@ -4124,5 +4124,55 @@
             "subreddit_change_7d_pct": 3.6,
             "marketcap_change_7d_pct": -21.43
         }
+    },
+    "2025-11-20": {
+        "exactsciences": {
+            "subreddit_Name": "exactsciences",
+            "subreddit_Count": 359,
+            "timestamp": "2025-11-20 15:30:09",
+            "ticker": "EXAS",
+            "current_market_cap": 16328636538,
+            "current_price": 86.25,
+            "subreddit_change_1d_pct": 2.87,
+            "marketcap_change_1d_pct": 23.68,
+            "subreddit_change_7d_pct": 6.21,
+            "marketcap_change_7d_pct": 26.09
+        },
+        "ArcturusTherapeutics": {
+            "subreddit_Name": "ArcturusTherapeutics",
+            "subreddit_Count": 25,
+            "timestamp": "2025-11-20 15:30:10",
+            "ticker": "ARCT",
+            "current_market_cap": 171611720,
+            "current_price": 6.32,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -8.76,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -22.11
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 6081,
+            "timestamp": "2025-11-20 15:30:15",
+            "ticker": "ONDS",
+            "current_market_cap": 2763448105,
+            "current_price": 7.92,
+            "subreddit_change_1d_pct": 0.43,
+            "marketcap_change_1d_pct": -4.34,
+            "subreddit_change_7d_pct": 5.1,
+            "marketcap_change_7d_pct": 11.6
+        },
+        "Tigr_Stock": {
+            "subreddit_Name": "Tigr_Stock",
+            "subreddit_Count": 128,
+            "timestamp": "2025-11-20 15:30:23",
+            "ticker": "TIGR",
+            "current_market_cap": 1444717132,
+            "current_price": 0.54,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -10.56,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -21.68
+        }
     }
 }
