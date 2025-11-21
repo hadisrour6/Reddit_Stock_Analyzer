@@ -4174,5 +4174,67 @@
             "subreddit_change_7d_pct": 0.0,
             "marketcap_change_7d_pct": -21.68
         }
+    },
+    "2025-11-21": {
+        "exactsciences": {
+            "subreddit_Name": "exactsciences",
+            "subreddit_Count": 367,
+            "timestamp": "2025-11-21 15:30:07",
+            "ticker": "EXAS",
+            "current_market_cap": 19074075658,
+            "current_price": 100.75,
+            "subreddit_change_1d_pct": 2.23,
+            "marketcap_change_1d_pct": 16.81,
+            "subreddit_change_7d_pct": 8.26,
+            "marketcap_change_7d_pct": 48.59
+        },
+        "ArcturusTherapeutics": {
+            "subreddit_Name": "ArcturusTherapeutics",
+            "subreddit_Count": 25,
+            "timestamp": "2025-11-21 15:30:08",
+            "ticker": "ARCT",
+            "current_market_cap": 167633964,
+            "current_price": 6.17,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -2.32,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -20.55
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 6107,
+            "timestamp": "2025-11-21 15:30:13",
+            "ticker": "ONDS",
+            "current_market_cap": 2310242615,
+            "current_price": 6.62,
+            "subreddit_change_1d_pct": 0.43,
+            "marketcap_change_1d_pct": -16.4,
+            "subreddit_change_7d_pct": 4.57,
+            "marketcap_change_7d_pct": -4.21
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 3986,
+            "timestamp": "2025-11-21 15:30:17",
+            "ticker": "UAMY",
+            "current_market_cap": 823409382,
+            "current_price": 5.93,
+            "subreddit_change_1d_pct": 0.23,
+            "marketcap_change_1d_pct": -12.76,
+            "subreddit_change_7d_pct": 0.96,
+            "marketcap_change_7d_pct": -17.54
+        },
+        "Tigr_Stock": {
+            "subreddit_Name": "Tigr_Stock",
+            "subreddit_Count": 128,
+            "timestamp": "2025-11-21 15:30:20",
+            "ticker": "TIGR",
+            "current_market_cap": 1444717132,
+            "current_price": 0.54,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -21.68
+        }
     }
 }
