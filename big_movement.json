@@ -4236,5 +4236,55 @@
             "subreddit_change_7d_pct": 0.0,
             "marketcap_change_7d_pct": -21.68
         }
+    },
+    "2025-11-22": {
+        "exactsciences": {
+            "subreddit_Name": "exactsciences",
+            "subreddit_Count": 369,
+            "timestamp": "2025-11-22 15:30:06",
+            "ticker": "EXAS",
+            "current_market_cap": 19117653642,
+            "current_price": 100.98,
+            "subreddit_change_1d_pct": 0.54,
+            "marketcap_change_1d_pct": 0.23,
+            "subreddit_change_7d_pct": 8.53,
+            "marketcap_change_7d_pct": 50.53
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 3988,
+            "timestamp": "2025-11-22 15:30:17",
+            "ticker": "UAMY",
+            "current_market_cap": 822009069,
+            "current_price": 5.92,
+            "subreddit_change_1d_pct": 0.05,
+            "marketcap_change_1d_pct": -0.17,
+            "subreddit_change_7d_pct": 0.94,
+            "marketcap_change_7d_pct": -20.46
+        },
+        "ELTP_Stock": {
+            "subreddit_Name": "ELTP_Stock",
+            "subreddit_Count": 2390,
+            "timestamp": "2025-11-22 15:30:19",
+            "ticker": "ELTP",
+            "current_market_cap": 555514629,
+            "current_price": 0.52,
+            "subreddit_change_1d_pct": 0.08,
+            "marketcap_change_1d_pct": -4.26,
+            "subreddit_change_7d_pct": 0.55,
+            "marketcap_change_7d_pct": -23.15
+        },
+        "Tigr_Stock": {
+            "subreddit_Name": "Tigr_Stock",
+            "subreddit_Count": 128,
+            "timestamp": "2025-11-22 15:30:20",
+            "ticker": "TIGR",
+            "current_market_cap": 1402068613,
+            "current_price": 0.53,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -2.95,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -21.18
+        }
     }
 }
