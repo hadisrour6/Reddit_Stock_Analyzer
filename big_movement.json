@@ -4472,5 +4472,55 @@
             "subreddit_change_7d_pct": 0.43,
             "marketcap_change_7d_pct": 18.72
         }
+    },
+    "2025-11-26": {
+        "exactsciences": {
+            "subreddit_Name": "exactsciences",
+            "subreddit_Count": 372,
+            "timestamp": "2025-11-26 15:30:06",
+            "ticker": "EXAS",
+            "current_market_cap": 19161232794,
+            "current_price": 100.97,
+            "subreddit_change_1d_pct": 0.27,
+            "marketcap_change_1d_pct": 0.12,
+            "subreddit_change_7d_pct": 6.59,
+            "marketcap_change_7d_pct": 45.13
+        },
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5618,
+            "timestamp": "2025-11-26 15:30:11",
+            "ticker": "CLSK",
+            "current_market_cap": 2898915130,
+            "current_price": 10.31,
+            "subreddit_change_1d_pct": 0.09,
+            "marketcap_change_1d_pct": -15.24,
+            "subreddit_change_7d_pct": 0.36,
+            "marketcap_change_7d_pct": -9.99
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 972,
+            "timestamp": "2025-11-26 15:30:13",
+            "ticker": "BKSY",
+            "current_market_cap": 616553199,
+            "current_price": 17.13,
+            "subreddit_change_1d_pct": 0.1,
+            "marketcap_change_1d_pct": 6.73,
+            "subreddit_change_7d_pct": 0.83,
+            "marketcap_change_7d_pct": 26.23
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 5834,
+            "timestamp": "2025-11-26 15:30:16",
+            "ticker": "APLD",
+            "current_market_cap": 5874415442,
+            "current_price": 21.0,
+            "subreddit_change_1d_pct": 0.19,
+            "marketcap_change_1d_pct": -11.35,
+            "subreddit_change_7d_pct": 1.6,
+            "marketcap_change_7d_pct": -8.04
+        }
     }
 }
