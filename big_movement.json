@@ -4648,5 +4648,43 @@
             "subreddit_change_7d_pct": 0.34,
             "marketcap_change_7d_pct": 24.38
         }
+    },
+    "2025-11-30": {
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5646,
+            "timestamp": "2025-11-30 15:30:11",
+            "ticker": "CLSK",
+            "current_market_cap": 4498830380,
+            "current_price": 16.01,
+            "subreddit_change_1d_pct": 0.07,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.73,
+            "marketcap_change_7d_pct": 64.49
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 5862,
+            "timestamp": "2025-11-30 15:30:16",
+            "ticker": "APLD",
+            "current_market_cap": 7548442663,
+            "current_price": 26.99,
+            "subreddit_change_1d_pct": 0.05,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 1.03,
+            "marketcap_change_7d_pct": 27.97
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4440,
+            "timestamp": "2025-11-30 15:30:16",
+            "ticker": "BITF",
+            "current_market_cap": 2714572771,
+            "current_price": 4.82,
+            "subreddit_change_1d_pct": 0.09,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.43,
+            "marketcap_change_7d_pct": 40.93
+        }
     }
 }
