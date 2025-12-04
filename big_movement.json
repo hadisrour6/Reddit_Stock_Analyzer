@@ -4776,5 +4776,31 @@
             "subreddit_change_7d_pct": 1.13,
             "marketcap_change_7d_pct": 33.0
         }
+    },
+    "2025-12-04": {
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 773,
+            "timestamp": "2025-12-04 15:30:08",
+            "ticker": "NTLA",
+            "current_market_cap": 1049419243,
+            "current_price": 9.06,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 11.85,
+            "subreddit_change_7d_pct": 0.26,
+            "marketcap_change_7d_pct": 6.34
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 6522,
+            "timestamp": "2025-12-04 15:30:14",
+            "ticker": "ONDS",
+            "current_market_cap": 3286660974,
+            "current_price": 8.92,
+            "subreddit_change_1d_pct": 0.63,
+            "marketcap_change_1d_pct": 10.53,
+            "subreddit_change_7d_pct": 2.43,
+            "marketcap_change_7d_pct": 8.25
+        }
     }
 }
