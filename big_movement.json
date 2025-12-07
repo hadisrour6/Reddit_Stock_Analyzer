@@ -4878,5 +4878,31 @@
             "subreddit_change_7d_pct": 0.49,
             "marketcap_change_7d_pct": 34.7
         }
+    },
+    "2025-12-07": {
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5664,
+            "timestamp": "2025-12-07 15:30:11",
+            "ticker": "CLSK",
+            "current_market_cap": 3505326749,
+            "current_price": 13.72,
+            "subreddit_change_1d_pct": 0.02,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.32,
+            "marketcap_change_7d_pct": -22.08
+        },
+        "UiPath": {
+            "subreddit_Name": "UiPath",
+            "subreddit_Count": 8586,
+            "timestamp": "2025-12-07 15:30:19",
+            "ticker": "PATH",
+            "current_market_cap": 9914174085,
+            "current_price": 18.67,
+            "subreddit_change_1d_pct": 0.09,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.54,
+            "marketcap_change_7d_pct": 34.7
+        }
     }
 }
