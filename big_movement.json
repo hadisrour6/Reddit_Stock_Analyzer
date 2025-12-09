@@ -4918,5 +4918,31 @@
             "subreddit_change_7d_pct": 0.51,
             "marketcap_change_7d_pct": 34.7
         }
+    },
+    "2025-12-09": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 3909,
+            "timestamp": "2025-12-09 15:30:04",
+            "ticker": "RDW",
+            "current_market_cap": 1126328346,
+            "current_price": 6.82,
+            "subreddit_change_1d_pct": 0.26,
+            "marketcap_change_1d_pct": 6.73,
+            "subreddit_change_7d_pct": 1.37,
+            "marketcap_change_7d_pct": 33.2
+        },
+        "UiPath": {
+            "subreddit_Name": "UiPath",
+            "subreddit_Count": 8596,
+            "timestamp": "2025-12-09 15:30:25",
+            "ticker": "PATH",
+            "current_market_cap": 10243407799,
+            "current_price": 19.29,
+            "subreddit_change_1d_pct": 0.08,
+            "marketcap_change_1d_pct": 3.32,
+            "subreddit_change_7d_pct": 0.54,
+            "marketcap_change_7d_pct": 36.61
+        }
     }
 }
