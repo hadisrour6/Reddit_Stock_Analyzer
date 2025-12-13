@@ -5034,5 +5034,19 @@
             "subreddit_change_7d_pct": 1.96,
             "marketcap_change_7d_pct": 24.92
         }
+    },
+    "2025-12-13": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 4599,
+            "timestamp": "2025-12-13 15:30:02",
+            "ticker": "PL",
+            "current_market_cap": 5721243840,
+            "current_price": 18.58,
+            "subreddit_change_1d_pct": 0.41,
+            "marketcap_change_1d_pct": 6.35,
+            "subreddit_change_7d_pct": 2.86,
+            "marketcap_change_7d_pct": 45.5
+        }
     }
 }
