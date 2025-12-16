@@ -5076,5 +5076,67 @@
             "subreddit_change_7d_pct": 3.14,
             "marketcap_change_7d_pct": 45.5
         }
+    },
+    "2025-12-16": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 4636,
+            "timestamp": "2025-12-16 15:30:02",
+            "ticker": "PL",
+            "current_market_cap": 5661647534,
+            "current_price": 18.39,
+            "subreddit_change_1d_pct": 0.24,
+            "marketcap_change_1d_pct": -1.04,
+            "subreddit_change_7d_pct": 3.27,
+            "marketcap_change_7d_pct": 41.98
+        },
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5678,
+            "timestamp": "2025-12-16 15:30:12",
+            "ticker": "CLSK",
+            "current_market_cap": 3045276571,
+            "current_price": 11.92,
+            "subreddit_change_1d_pct": 0.02,
+            "marketcap_change_1d_pct": -15.07,
+            "subreddit_change_7d_pct": 0.19,
+            "marketcap_change_7d_pct": -14.22
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 6798,
+            "timestamp": "2025-12-16 15:30:14",
+            "ticker": "ONDS",
+            "current_market_cap": 2833455478,
+            "current_price": 7.69,
+            "subreddit_change_1d_pct": 0.34,
+            "marketcap_change_1d_pct": -12.11,
+            "subreddit_change_7d_pct": 2.33,
+            "marketcap_change_7d_pct": -14.75
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 6039,
+            "timestamp": "2025-12-16 15:30:18",
+            "ticker": "APLD",
+            "current_market_cap": 6417475813,
+            "current_price": 22.94,
+            "subreddit_change_1d_pct": 0.4,
+            "marketcap_change_1d_pct": -17.52,
+            "subreddit_change_7d_pct": 1.48,
+            "marketcap_change_7d_pct": -28.25
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4136,
+            "timestamp": "2025-12-16 15:30:19",
+            "ticker": "UAMY",
+            "current_market_cap": 697377345,
+            "current_price": 4.98,
+            "subreddit_change_1d_pct": 0.29,
+            "marketcap_change_1d_pct": -11.07,
+            "subreddit_change_7d_pct": 1.03,
+            "marketcap_change_7d_pct": -21.57
+        }
     }
 }
