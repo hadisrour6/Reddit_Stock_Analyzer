@@ -5138,5 +5138,55 @@
             "subreddit_change_7d_pct": 1.03,
             "marketcap_change_7d_pct": -21.57
         }
+    },
+    "2025-12-17": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 4648,
+            "timestamp": "2025-12-17 15:30:02",
+            "ticker": "PL",
+            "current_market_cap": 5608324537,
+            "current_price": 18.21,
+            "subreddit_change_1d_pct": 0.26,
+            "marketcap_change_1d_pct": -0.94,
+            "subreddit_change_7d_pct": 3.29,
+            "marketcap_change_7d_pct": 41.85
+        },
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5679,
+            "timestamp": "2025-12-17 15:30:17",
+            "ticker": "CLSK",
+            "current_market_cap": 3031219530,
+            "current_price": 11.86,
+            "subreddit_change_1d_pct": 0.02,
+            "marketcap_change_1d_pct": -0.46,
+            "subreddit_change_7d_pct": 0.19,
+            "marketcap_change_7d_pct": -20.13
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 6052,
+            "timestamp": "2025-12-17 15:30:22",
+            "ticker": "APLD",
+            "current_market_cap": 6769347572,
+            "current_price": 24.2,
+            "subreddit_change_1d_pct": 0.22,
+            "marketcap_change_1d_pct": 5.48,
+            "subreddit_change_7d_pct": 1.58,
+            "marketcap_change_7d_pct": -26.03
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4140,
+            "timestamp": "2025-12-17 15:30:23",
+            "ticker": "UAMY",
+            "current_market_cap": 697377360,
+            "current_price": 4.98,
+            "subreddit_change_1d_pct": 0.1,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 1.05,
+            "marketcap_change_7d_pct": -22.67
+        }
     }
 }
