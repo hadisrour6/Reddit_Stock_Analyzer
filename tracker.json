@@ -776,6 +776,14 @@
                 "ticker": "PL",
                 "current_market_cap": 6373666494,
                 "current_price": 20.7
+            },
+            {
+                "subreddit_Name": "PlanetLabs",
+                "subreddit_Count": 4799,
+                "timestamp": "2025-12-26 15:30:02",
+                "ticker": "PL",
+                "current_market_cap": 6373666539,
+                "current_price": 20.7
             }
         ]
     },
@@ -1555,6 +1563,14 @@
                 "timestamp": "2025-12-25 15:30:02",
                 "ticker": "IRDM",
                 "current_market_cap": 1822575010,
+                "current_price": 17.4
+            },
+            {
+                "subreddit_Name": "IridiumCommunications",
+                "subreddit_Count": 7,
+                "timestamp": "2025-12-26 15:30:03",
+                "ticker": "IRDM",
+                "current_market_cap": 1822574955,
                 "current_price": 17.4
             }
         ]
@@ -2336,6 +2352,14 @@
                 "ticker": "RDW",
                 "current_market_cap": 1291479194,
                 "current_price": 7.82
+            },
+            {
+                "subreddit_Name": "redwire",
+                "subreddit_Count": 4120,
+                "timestamp": "2025-12-26 15:30:03",
+                "ticker": "RDW",
+                "current_market_cap": 1291479185,
+                "current_price": 7.82
             }
         ]
     },
@@ -3116,6 +3140,14 @@
                 "ticker": "VSAT",
                 "current_market_cap": 4728828022,
                 "current_price": 34.96
+            },
+            {
+                "subreddit_Name": "Viasat",
+                "subreddit_Count": 778,
+                "timestamp": "2025-12-26 15:30:04",
+                "ticker": "VSAT",
+                "current_market_cap": 4754528463,
+                "current_price": 35.15
             }
         ]
     },
@@ -3895,6 +3927,14 @@
                 "timestamp": "2025-12-25 15:30:05",
                 "ticker": "GSAT",
                 "current_market_cap": 8022529878,
+                "current_price": 63.25
+            },
+            {
+                "subreddit_Name": "GSAT",
+                "subreddit_Count": 7233,
+                "timestamp": "2025-12-26 15:30:05",
+                "ticker": "GSAT",
+                "current_market_cap": 8022529879,
                 "current_price": 63.25
             }
         ]
@@ -4676,6 +4716,14 @@
                 "ticker": "BBIO",
                 "current_market_cap": 14748006023,
                 "current_price": 76.53
+            },
+            {
+                "subreddit_Name": "BBIO",
+                "subreddit_Count": 96,
+                "timestamp": "2025-12-26 15:30:06",
+                "ticker": "BBIO",
+                "current_market_cap": 14748005494,
+                "current_price": 76.53
             }
         ]
     },
@@ -5455,6 +5503,14 @@
                 "timestamp": "2025-12-25 15:30:07",
                 "ticker": "EXAS",
                 "current_market_cap": 19268821010,
+                "current_price": 101.54
+            },
+            {
+                "subreddit_Name": "exactsciences",
+                "subreddit_Count": 374,
+                "timestamp": "2025-12-26 15:30:07",
+                "ticker": "EXAS",
+                "current_market_cap": 19268821878,
                 "current_price": 101.54
             }
         ]
@@ -6236,6 +6292,14 @@
                 "ticker": "ARCT",
                 "current_market_cap": 184681483,
                 "current_price": 6.5
+            },
+            {
+                "subreddit_Name": "ArcturusTherapeutics",
+                "subreddit_Count": 27,
+                "timestamp": "2025-12-26 15:30:08",
+                "ticker": "ARCT",
+                "current_market_cap": 184681488,
+                "current_price": 6.5
             }
         ]
     },
@@ -7015,6 +7079,14 @@
                 "timestamp": "2025-12-25 15:30:08",
                 "ticker": "NTLA",
                 "current_market_cap": 1110809067,
+                "current_price": 9.59
+            },
+            {
+                "subreddit_Name": "IntelliaTherapeutics",
+                "subreddit_Count": 775,
+                "timestamp": "2025-12-26 15:30:09",
+                "ticker": "NTLA",
+                "current_market_cap": 1110809077,
                 "current_price": 9.59
             }
         ]
@@ -7796,6 +7868,14 @@
                 "ticker": "IONS",
                 "current_market_cap": 13063235314,
                 "current_price": 80.65
+            },
+            {
+                "subreddit_Name": "ionis",
+                "subreddit_Count": 1,
+                "timestamp": "2025-12-26 15:30:10",
+                "ticker": "IONS",
+                "current_market_cap": 13063235265,
+                "current_price": 80.65
             }
         ]
     },
@@ -8575,6 +8655,14 @@
                 "timestamp": "2025-12-25 15:30:10",
                 "ticker": "VKTX",
                 "current_market_cap": 4221907521,
+                "current_price": 37.35
+            },
+            {
+                "subreddit_Name": "Vikingtherapeutics",
+                "subreddit_Count": 342,
+                "timestamp": "2025-12-26 15:30:11",
+                "ticker": "VKTX",
+                "current_market_cap": 4221907367,
                 "current_price": 37.35
             }
         ]
@@ -9356,6 +9444,14 @@
                 "ticker": "SOFI",
                 "current_market_cap": 34637125084,
                 "current_price": 28.72
+            },
+            {
+                "subreddit_Name": "sofi",
+                "subreddit_Count": 62311,
+                "timestamp": "2025-12-26 15:30:12",
+                "ticker": "SOFI",
+                "current_market_cap": 34637123827,
+                "current_price": 28.72
             }
         ]
     },
@@ -10135,6 +10231,14 @@
                 "timestamp": "2025-12-25 15:30:11",
                 "ticker": "CLSK",
                 "current_market_cap": 2913651217,
+                "current_price": 11.4
+            },
+            {
+                "subreddit_Name": "CleanSpark",
+                "subreddit_Count": 5689,
+                "timestamp": "2025-12-26 15:30:12",
+                "ticker": "CLSK",
+                "current_market_cap": 2913651062,
                 "current_price": 11.4
             }
         ]
@@ -10916,6 +11020,14 @@
                 "ticker": "TALO",
                 "current_market_cap": 1873276253,
                 "current_price": 11.02
+            },
+            {
+                "subreddit_Name": "talosenergy",
+                "subreddit_Count": 28,
+                "timestamp": "2025-12-26 15:30:13",
+                "ticker": "TALO",
+                "current_market_cap": 1873276318,
+                "current_price": 11.02
             }
         ]
     },
@@ -11695,6 +11807,14 @@
                 "timestamp": "2025-12-25 15:30:13",
                 "ticker": "BKSY",
                 "current_market_cap": 763762972,
+                "current_price": 21.22
+            },
+            {
+                "subreddit_Name": "BlackskyTechnology",
+                "subreddit_Count": 996,
+                "timestamp": "2025-12-26 15:30:14",
+                "ticker": "BKSY",
+                "current_market_cap": 763762936,
                 "current_price": 21.22
             }
         ]
@@ -12476,6 +12596,14 @@
                 "ticker": "ONDS",
                 "current_market_cap": 3417897207,
                 "current_price": 9.28
+            },
+            {
+                "subreddit_Name": "ONDS",
+                "subreddit_Count": 7019,
+                "timestamp": "2025-12-26 15:30:15",
+                "ticker": "ONDS",
+                "current_market_cap": 3417897235,
+                "current_price": 9.28
             }
         ]
     },
@@ -13255,6 +13383,14 @@
                 "timestamp": "2025-12-25 15:30:15",
                 "ticker": "ABCL",
                 "current_market_cap": 1113526412,
+                "current_price": 3.72
+            },
+            {
+                "subreddit_Name": "ABCL",
+                "subreddit_Count": 1124,
+                "timestamp": "2025-12-26 15:30:16",
+                "ticker": "ABCL",
+                "current_market_cap": 1113526404,
                 "current_price": 3.72
             }
         ]
@@ -14036,6 +14172,14 @@
                 "ticker": "ROOT",
                 "current_market_cap": 1151697356,
                 "current_price": 74.26
+            },
+            {
+                "subreddit_Name": "ROOTStonk",
+                "subreddit_Count": 537,
+                "timestamp": "2025-12-26 15:30:16",
+                "ticker": "ROOT",
+                "current_market_cap": 1151697414,
+                "current_price": 74.26
             }
         ]
     },
@@ -14815,6 +14959,14 @@
                 "timestamp": "2025-12-25 15:30:16",
                 "ticker": "TTD",
                 "current_market_cap": 18434638406,
+                "current_price": 38.12
+            },
+            {
+                "subreddit_Name": "TheTradeDesk",
+                "subreddit_Count": 574,
+                "timestamp": "2025-12-26 15:30:17",
+                "ticker": "TTD",
+                "current_market_cap": 18434638566,
                 "current_price": 38.12
             }
         ]
@@ -15596,6 +15748,14 @@
                 "ticker": "APLD",
                 "current_market_cap": 7182657695,
                 "current_price": 25.68
+            },
+            {
+                "subreddit_Name": "APLDSTOCK",
+                "subreddit_Count": 6139,
+                "timestamp": "2025-12-26 15:30:18",
+                "ticker": "APLD",
+                "current_market_cap": 7182657524,
+                "current_price": 25.68
             }
         ]
     },
@@ -16376,6 +16536,14 @@
                 "ticker": "BITF",
                 "current_market_cap": 2053220366,
                 "current_price": 3.65
+            },
+            {
+                "subreddit_Name": "BitfarmsMining",
+                "subreddit_Count": 4475,
+                "timestamp": "2025-12-26 15:30:19",
+                "ticker": "BITF",
+                "current_market_cap": 2070189112,
+                "current_price": 3.68
             }
         ]
     },
@@ -17155,6 +17323,14 @@
                 "timestamp": "2025-12-25 15:30:19",
                 "ticker": "UAMY",
                 "current_market_cap": 889226180,
+                "current_price": 6.35
+            },
+            {
+                "subreddit_Name": "UAMY",
+                "subreddit_Count": 4189,
+                "timestamp": "2025-12-26 15:30:19",
+                "ticker": "UAMY",
+                "current_market_cap": 889226136,
                 "current_price": 6.35
             }
         ]
@@ -17936,6 +18112,14 @@
                 "ticker": "MNDY",
                 "current_market_cap": 7417983983,
                 "current_price": 143.9
+            },
+            {
+                "subreddit_Name": "mondaydotcom",
+                "subreddit_Count": 6498,
+                "timestamp": "2025-12-26 15:30:20",
+                "ticker": "MNDY",
+                "current_market_cap": 7417984481,
+                "current_price": 143.9
             }
         ]
     },
@@ -18715,6 +18899,14 @@
                 "timestamp": "2025-12-25 15:30:20",
                 "ticker": "PATH",
                 "current_market_cap": 9176304789,
+                "current_price": 17.28
+            },
+            {
+                "subreddit_Name": "UiPath",
+                "subreddit_Count": 8683,
+                "timestamp": "2025-12-26 15:30:21",
+                "ticker": "PATH",
+                "current_market_cap": 9176304686,
                 "current_price": 17.28
             }
         ]
@@ -19496,6 +19688,14 @@
                 "ticker": "ELTP",
                 "current_market_cap": 520593478,
                 "current_price": 0.48
+            },
+            {
+                "subreddit_Name": "ELTP_Stock",
+                "subreddit_Count": 2421,
+                "timestamp": "2025-12-26 15:30:22",
+                "ticker": "ELTP",
+                "current_market_cap": 520593466,
+                "current_price": 0.48
             }
         ]
     },
@@ -20273,6 +20473,14 @@
                 "subreddit_Name": "Tigr_Stock",
                 "subreddit_Count": 133,
                 "timestamp": "2025-12-25 15:30:22",
+                "ticker": "TIGR",
+                "current_market_cap": 1602871957,
+                "current_price": 0.6
+            },
+            {
+                "subreddit_Name": "Tigr_Stock",
+                "subreddit_Count": 133,
+                "timestamp": "2025-12-26 15:30:23",
                 "ticker": "TIGR",
                 "current_market_cap": 1602871957,
                 "current_price": 0.6
@@ -21056,6 +21264,14 @@
                 "ticker": "PGY",
                 "current_market_cap": 1828203583,
                 "current_price": 22.74
+            },
+            {
+                "subreddit_Name": "Pagaya",
+                "subreddit_Count": 608,
+                "timestamp": "2025-12-26 15:30:24",
+                "ticker": "PGY",
+                "current_market_cap": 1828203607,
+                "current_price": 22.74
             }
         ]
     },
@@ -21835,6 +22051,14 @@
                 "timestamp": "2025-12-25 15:30:23",
                 "ticker": "SAIL",
                 "current_market_cap": 11833454398,
+                "current_price": 21.26
+            },
+            {
+                "subreddit_Name": "sailpoint",
+                "subreddit_Count": 2042,
+                "timestamp": "2025-12-26 15:30:24",
+                "ticker": "SAIL",
+                "current_market_cap": 11833454011,
                 "current_price": 21.26
             }
         ]
