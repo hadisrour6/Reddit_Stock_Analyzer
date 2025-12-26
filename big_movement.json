@@ -5588,5 +5588,31 @@
             "subreddit_change_7d_pct": 0.87,
             "marketcap_change_7d_pct": 39.87
         }
+    },
+    "2025-12-26": {
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 996,
+            "timestamp": "2025-12-26 15:30:14",
+            "ticker": "BKSY",
+            "current_market_cap": 763762936,
+            "current_price": 21.22,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -0.0,
+            "subreddit_change_7d_pct": 0.5,
+            "marketcap_change_7d_pct": 21.47
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4189,
+            "timestamp": "2025-12-26 15:30:19",
+            "ticker": "UAMY",
+            "current_market_cap": 889226136,
+            "current_price": 6.35,
+            "subreddit_change_1d_pct": 0.22,
+            "marketcap_change_1d_pct": -0.0,
+            "subreddit_change_7d_pct": 0.96,
+            "marketcap_change_7d_pct": 41.43
+        }
     }
 }
