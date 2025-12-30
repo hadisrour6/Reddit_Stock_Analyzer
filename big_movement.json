@@ -5692,5 +5692,31 @@
             "subreddit_change_7d_pct": 1.15,
             "marketcap_change_7d_pct": 29.46
         }
+    },
+    "2025-12-30": {
+        "Vikingtherapeutics": {
+            "subreddit_Name": "Vikingtherapeutics",
+            "subreddit_Count": 348,
+            "timestamp": "2025-12-30 15:30:10",
+            "ticker": "VKTX",
+            "current_market_cap": 4121305224,
+            "current_price": 36.46,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -1.94,
+            "subreddit_change_7d_pct": 6.1,
+            "marketcap_change_7d_pct": 3.73
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4215,
+            "timestamp": "2025-12-30 15:30:19",
+            "ticker": "UAMY",
+            "current_market_cap": 785599765,
+            "current_price": 5.61,
+            "subreddit_change_1d_pct": 0.17,
+            "marketcap_change_1d_pct": -10.1,
+            "subreddit_change_7d_pct": 1.08,
+            "marketcap_change_7d_pct": 0.36
+        }
     }
 }
