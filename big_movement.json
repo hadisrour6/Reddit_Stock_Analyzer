@@ -5732,5 +5732,19 @@
             "subreddit_change_7d_pct": 2.36,
             "marketcap_change_7d_pct": -0.87
         }
+    },
+    "2026-01-01": {
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4225,
+            "timestamp": "2026-01-01 15:30:19",
+            "ticker": "UAMY",
+            "current_market_cap": 702978759,
+            "current_price": 5.02,
+            "subreddit_change_1d_pct": 0.12,
+            "marketcap_change_1d_pct": -3.09,
+            "subreddit_change_7d_pct": 1.08,
+            "marketcap_change_7d_pct": -20.94
+        }
     }
 }
