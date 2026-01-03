@@ -5760,5 +5760,79 @@
             "subreddit_change_7d_pct": 0.98,
             "marketcap_change_7d_pct": -20.94
         }
+    },
+    "2026-01-03": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 4246,
+            "timestamp": "2026-01-03 15:30:04",
+            "ticker": "RDW",
+            "current_market_cap": 1491311590,
+            "current_price": 9.03,
+            "subreddit_change_1d_pct": 0.28,
+            "marketcap_change_1d_pct": 18.82,
+            "subreddit_change_7d_pct": 2.81,
+            "marketcap_change_7d_pct": 26.29
+        },
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5708,
+            "timestamp": "2026-01-03 15:30:12",
+            "ticker": "CLSK",
+            "current_market_cap": 2951988642,
+            "current_price": 11.55,
+            "subreddit_change_1d_pct": 0.02,
+            "marketcap_change_1d_pct": 14.13,
+            "subreddit_change_7d_pct": 0.32,
+            "marketcap_change_7d_pct": 5.87
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1007,
+            "timestamp": "2026-01-03 15:30:13",
+            "ticker": "BKSY",
+            "current_market_cap": 749365920,
+            "current_price": 20.82,
+            "subreddit_change_1d_pct": 0.2,
+            "marketcap_change_1d_pct": 11.04,
+            "subreddit_change_7d_pct": 1.1,
+            "marketcap_change_7d_pct": 7.82
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 7363,
+            "timestamp": "2026-01-03 15:30:14",
+            "ticker": "ONDS",
+            "current_market_cap": 4125435701,
+            "current_price": 11.2,
+            "subreddit_change_1d_pct": 0.81,
+            "marketcap_change_1d_pct": 12.91,
+            "subreddit_change_7d_pct": 4.6,
+            "marketcap_change_7d_pct": 29.95
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 6232,
+            "timestamp": "2026-01-03 15:30:18",
+            "ticker": "APLD",
+            "current_market_cap": 7850097673,
+            "current_price": 28.07,
+            "subreddit_change_1d_pct": 0.16,
+            "marketcap_change_1d_pct": 14.64,
+            "subreddit_change_7d_pct": 1.28,
+            "marketcap_change_7d_pct": 16.88
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4238,
+            "timestamp": "2026-01-03 15:30:19",
+            "ticker": "UAMY",
+            "current_market_cap": 830411188,
+            "current_price": 5.93,
+            "subreddit_change_1d_pct": 0.19,
+            "marketcap_change_1d_pct": 18.13,
+            "subreddit_change_7d_pct": 0.95,
+            "marketcap_change_7d_pct": -4.97
+        }
     }
 }
