@@ -5834,5 +5834,31 @@
             "subreddit_change_7d_pct": 0.95,
             "marketcap_change_7d_pct": -4.97
         }
+    },
+    "2026-01-04": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 4262,
+            "timestamp": "2026-01-04 15:30:04",
+            "ticker": "RDW",
+            "current_market_cap": 1491311590,
+            "current_price": 9.03,
+            "subreddit_change_1d_pct": 0.38,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 2.97,
+            "marketcap_change_7d_pct": 26.29
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 7406,
+            "timestamp": "2026-01-04 15:30:15",
+            "ticker": "ONDS",
+            "current_market_cap": 4125435701,
+            "current_price": 11.2,
+            "subreddit_change_1d_pct": 0.58,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 4.96,
+            "marketcap_change_7d_pct": 29.95
+        }
     }
 }
