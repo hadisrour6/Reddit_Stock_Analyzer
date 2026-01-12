@@ -6402,5 +6402,43 @@
             "subreddit_change_7d_pct": 1.81,
             "marketcap_change_7d_pct": 29.01
         }
+    },
+    "2026-01-12": {
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 8202,
+            "timestamp": "2026-01-12 15:30:16",
+            "ticker": "ONDS",
+            "current_market_cap": 5212651828,
+            "current_price": 14.15,
+            "subreddit_change_1d_pct": 1.12,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 9.2,
+            "marketcap_change_7d_pct": 21.6
+        },
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1171,
+            "timestamp": "2026-01-12 15:30:17",
+            "ticker": "ABCL",
+            "current_market_cap": 1308094222,
+            "current_price": 4.37,
+            "subreddit_change_1d_pct": 0.6,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 3.08,
+            "marketcap_change_7d_pct": 27.41
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 6483,
+            "timestamp": "2026-01-12 15:30:19",
+            "ticker": "APLD",
+            "current_market_cap": 10522649582,
+            "current_price": 37.62,
+            "subreddit_change_1d_pct": 0.56,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 3.53,
+            "marketcap_change_7d_pct": 26.29
+        }
     }
 }
