@@ -6526,5 +6526,67 @@
             "subreddit_change_7d_pct": 1.17,
             "marketcap_change_7d_pct": 24.75
         }
+    },
+    "2026-01-14": {
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 785,
+            "timestamp": "2026-01-14 15:30:09",
+            "ticker": "NTLA",
+            "current_market_cap": 1405017062,
+            "current_price": 12.13,
+            "subreddit_change_1d_pct": 0.38,
+            "marketcap_change_1d_pct": 6.12,
+            "subreddit_change_7d_pct": 0.77,
+            "marketcap_change_7d_pct": 24.67
+        },
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5726,
+            "timestamp": "2026-01-14 15:30:12",
+            "ticker": "CLSK",
+            "current_market_cap": 3392282310,
+            "current_price": 13.27,
+            "subreddit_change_1d_pct": 0.05,
+            "marketcap_change_1d_pct": 10.98,
+            "subreddit_change_7d_pct": 0.19,
+            "marketcap_change_7d_pct": 10.7
+        },
+        "talosenergy": {
+            "subreddit_Name": "talosenergy",
+            "subreddit_Count": 28,
+            "timestamp": "2026-01-14 15:30:13",
+            "ticker": "TALO",
+            "current_market_cap": 2046664791,
+            "current_price": 12.04,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 10.26,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": 14.12
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 8421,
+            "timestamp": "2026-01-14 15:30:15",
+            "ticker": "ONDS",
+            "current_market_cap": 5312554166,
+            "current_price": 14.42,
+            "subreddit_change_1d_pct": 0.78,
+            "marketcap_change_1d_pct": -0.49,
+            "subreddit_change_7d_pct": 8.69,
+            "marketcap_change_7d_pct": 10.52
+        },
+        "UiPath": {
+            "subreddit_Name": "UiPath",
+            "subreddit_Count": 8756,
+            "timestamp": "2026-01-14 15:30:21",
+            "ticker": "PATH",
+            "current_market_cap": 8165627980,
+            "current_price": 15.38,
+            "subreddit_change_1d_pct": 0.06,
+            "marketcap_change_1d_pct": -11.43,
+            "subreddit_change_7d_pct": 0.39,
+            "marketcap_change_7d_pct": -11.89
+        }
     }
 }
