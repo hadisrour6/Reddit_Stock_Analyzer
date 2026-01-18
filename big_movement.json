@@ -6690,5 +6690,43 @@
             "subreddit_change_7d_pct": 8.22,
             "marketcap_change_7d_pct": -5.58
         }
+    },
+    "2026-01-18": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 5482,
+            "timestamp": "2026-01-18 15:30:03",
+            "ticker": "PL",
+            "current_market_cap": 9027270187,
+            "current_price": 29.32,
+            "subreddit_change_1d_pct": 0.86,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 9.22,
+            "marketcap_change_7d_pct": 26.73
+        },
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 787,
+            "timestamp": "2026-01-18 15:30:12",
+            "ticker": "NTLA",
+            "current_market_cap": 1447874150,
+            "current_price": 12.5,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.9,
+            "marketcap_change_7d_pct": 20.42
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 8768,
+            "timestamp": "2026-01-18 15:30:20",
+            "ticker": "ONDS",
+            "current_market_cap": 4921954707,
+            "current_price": 13.36,
+            "subreddit_change_1d_pct": 0.76,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 8.1,
+            "marketcap_change_7d_pct": -5.58
+        }
     }
 }
