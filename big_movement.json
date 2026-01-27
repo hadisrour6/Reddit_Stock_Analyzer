@@ -7008,5 +7008,55 @@
             "subreddit_change_7d_pct": 2.38,
             "marketcap_change_7d_pct": 30.88
         }
+    },
+    "2026-01-27": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 4783,
+            "timestamp": "2026-01-27 15:30:03",
+            "ticker": "RDW",
+            "current_market_cap": 1810052695,
+            "current_price": 10.96,
+            "subreddit_change_1d_pct": 0.99,
+            "marketcap_change_1d_pct": -12.46,
+            "subreddit_change_7d_pct": 4.23,
+            "marketcap_change_7d_pct": -6.4
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1075,
+            "timestamp": "2026-01-27 15:30:14",
+            "ticker": "BKSY",
+            "current_market_cap": 874980090,
+            "current_price": 24.31,
+            "subreddit_change_1d_pct": 0.19,
+            "marketcap_change_1d_pct": -10.23,
+            "subreddit_change_7d_pct": 1.03,
+            "marketcap_change_7d_pct": -11.7
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 9329,
+            "timestamp": "2026-01-27 15:30:15",
+            "ticker": "ONDS",
+            "current_market_cap": 4715953853,
+            "current_price": 12.8,
+            "subreddit_change_1d_pct": 0.75,
+            "marketcap_change_1d_pct": -4.26,
+            "subreddit_change_7d_pct": 5.02,
+            "marketcap_change_7d_pct": -4.19
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4491,
+            "timestamp": "2026-01-27 15:30:19",
+            "ticker": "UAMY",
+            "current_market_cap": 1330338379,
+            "current_price": 9.5,
+            "subreddit_change_1d_pct": 0.38,
+            "marketcap_change_1d_pct": -12.44,
+            "subreddit_change_7d_pct": 2.65,
+            "marketcap_change_7d_pct": 14.6
+        }
     }
 }
