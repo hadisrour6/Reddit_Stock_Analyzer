@@ -7108,5 +7108,19 @@
             "subreddit_change_7d_pct": 1.88,
             "marketcap_change_7d_pct": 16.61
         }
+    },
+    "2026-01-29": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 4858,
+            "timestamp": "2026-01-29 15:30:03",
+            "ticker": "RDW",
+            "current_market_cap": 2194853958,
+            "current_price": 13.29,
+            "subreddit_change_1d_pct": 0.52,
+            "marketcap_change_1d_pct": -6.41,
+            "subreddit_change_7d_pct": 4.79,
+            "marketcap_change_7d_pct": 30.29
+        }
     }
 }
