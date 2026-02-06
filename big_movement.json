@@ -7423,5 +7423,127 @@
             "subreddit_change_7d_pct": 0.2,
             "marketcap_change_7d_pct": -21.69
         }
+    },
+    "2026-02-06": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 6082,
+            "timestamp": "2026-02-06 15:30:02",
+            "ticker": "PL",
+            "current_market_cap": 6811137388,
+            "current_price": 22.12,
+            "subreddit_change_1d_pct": 0.23,
+            "marketcap_change_1d_pct": -6.16,
+            "subreddit_change_7d_pct": 2.39,
+            "marketcap_change_7d_pct": -22.47
+        },
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 4995,
+            "timestamp": "2026-02-06 15:30:04",
+            "ticker": "RDW",
+            "current_market_cap": 1453326960,
+            "current_price": 8.8,
+            "subreddit_change_1d_pct": 0.52,
+            "marketcap_change_1d_pct": -12.26,
+            "subreddit_change_7d_pct": 2.38,
+            "marketcap_change_7d_pct": -31.3
+        },
+        "BBIO": {
+            "subreddit_Name": "BBIO",
+            "subreddit_Count": 96,
+            "timestamp": "2026-02-06 15:30:07",
+            "ticker": "BBIO",
+            "current_market_cap": 12281332788,
+            "current_price": 63.73,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -15.24,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -19.43
+        },
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 799,
+            "timestamp": "2026-02-06 15:30:09",
+            "ticker": "NTLA",
+            "current_market_cap": 1284553976,
+            "current_price": 11.09,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -10.28,
+            "subreddit_change_7d_pct": 0.38,
+            "marketcap_change_7d_pct": -20.22
+        },
+        "sofi": {
+            "subreddit_Name": "sofi",
+            "subreddit_Count": 65185,
+            "timestamp": "2026-02-06 15:30:12",
+            "ticker": "SOFI",
+            "current_market_cap": 24528326390,
+            "current_price": 20.34,
+            "subreddit_change_1d_pct": 0.08,
+            "marketcap_change_1d_pct": -6.22,
+            "subreddit_change_7d_pct": 1.11,
+            "marketcap_change_7d_pct": -20.11
+        },
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5814,
+            "timestamp": "2026-02-06 15:30:13",
+            "ticker": "CLSK",
+            "current_market_cap": 2113776864,
+            "current_price": 8.27,
+            "subreddit_change_1d_pct": 0.09,
+            "marketcap_change_1d_pct": -19.13,
+            "subreddit_change_7d_pct": 0.57,
+            "marketcap_change_7d_pct": -34.31
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 9957,
+            "timestamp": "2026-02-06 15:30:15",
+            "ticker": "ONDS",
+            "current_market_cap": 3583448591,
+            "current_price": 9.73,
+            "subreddit_change_1d_pct": 0.9,
+            "marketcap_change_1d_pct": -12.4,
+            "subreddit_change_7d_pct": 4.51,
+            "marketcap_change_7d_pct": -24.76
+        },
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1230,
+            "timestamp": "2026-02-06 15:30:16",
+            "ticker": "ABCL",
+            "current_market_cap": 832151437,
+            "current_price": 2.78,
+            "subreddit_change_1d_pct": 0.41,
+            "marketcap_change_1d_pct": -14.98,
+            "subreddit_change_7d_pct": 1.57,
+            "marketcap_change_7d_pct": -27.98
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 6869,
+            "timestamp": "2026-02-06 15:30:19",
+            "ticker": "APLD",
+            "current_market_cap": 7785066839,
+            "current_price": 27.83,
+            "subreddit_change_1d_pct": 0.28,
+            "marketcap_change_1d_pct": -11.72,
+            "subreddit_change_7d_pct": 1.31,
+            "marketcap_change_7d_pct": -26.86
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4544,
+            "timestamp": "2026-02-06 15:30:19",
+            "ticker": "BITF",
+            "current_market_cap": 1317907202,
+            "current_price": 2.34,
+            "subreddit_change_1d_pct": 0.07,
+            "marketcap_change_1d_pct": -16.19,
+            "subreddit_change_7d_pct": 0.24,
+            "marketcap_change_7d_pct": -29.82
+        }
     }
 }
