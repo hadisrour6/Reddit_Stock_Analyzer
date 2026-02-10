@@ -7695,5 +7695,67 @@
             "subreddit_change_7d_pct": 0.26,
             "marketcap_change_7d_pct": -26.27
         }
+    },
+    "2026-02-10": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 6116,
+            "timestamp": "2026-02-10 15:30:02",
+            "ticker": "PL",
+            "current_market_cap": 8192980000,
+            "current_price": 24.02,
+            "subreddit_change_1d_pct": 0.15,
+            "marketcap_change_1d_pct": 10.4,
+            "subreddit_change_7d_pct": 1.54,
+            "marketcap_change_7d_pct": 7.55
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4548,
+            "timestamp": "2026-02-10 15:30:25",
+            "ticker": "BITF",
+            "current_market_cap": 1835930000,
+            "current_price": 3.05,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 39.31,
+            "subreddit_change_7d_pct": 0.24,
+            "marketcap_change_7d_pct": 5.04
+        },
+        "mondaydotcom": {
+            "subreddit_Name": "mondaydotcom",
+            "subreddit_Count": 6947,
+            "timestamp": "2026-02-10 15:30:27",
+            "ticker": "MNDY",
+            "current_market_cap": 4001940000,
+            "current_price": 77.63,
+            "subreddit_change_1d_pct": 0.16,
+            "marketcap_change_1d_pct": -19.57,
+            "subreddit_change_7d_pct": 0.93,
+            "marketcap_change_7d_pct": -30.14
+        },
+        "Tigr_Stock": {
+            "subreddit_Name": "Tigr_Stock",
+            "subreddit_Count": 133,
+            "timestamp": "2026-02-10 15:30:29",
+            "ticker": "TIGR",
+            "current_market_cap": 1515400000,
+            "current_price": 0.57,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 10.46,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": 1.4
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 673,
+            "timestamp": "2026-02-10 15:30:31",
+            "ticker": "PGY",
+            "current_market_cap": 1140820000,
+            "current_price": 14.19,
+            "subreddit_change_1d_pct": 0.75,
+            "marketcap_change_1d_pct": -23.87,
+            "subreddit_change_7d_pct": 3.06,
+            "marketcap_change_7d_pct": -28.08
+        }
     }
 }
