@@ -7757,5 +7757,43 @@
             "subreddit_change_7d_pct": 3.06,
             "marketcap_change_7d_pct": -28.08
         }
+    },
+    "2026-02-11": {
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 6936,
+            "timestamp": "2026-02-11 15:30:25",
+            "ticker": "APLD",
+            "current_market_cap": 10476080044,
+            "current_price": 37.47,
+            "subreddit_change_1d_pct": 0.22,
+            "marketcap_change_1d_pct": -2.06,
+            "subreddit_change_7d_pct": 1.51,
+            "marketcap_change_7d_pct": 24.65
+        },
+        "mondaydotcom": {
+            "subreddit_Name": "mondaydotcom",
+            "subreddit_Count": 6958,
+            "timestamp": "2026-02-11 15:30:27",
+            "ticker": "MNDY",
+            "current_market_cap": 3762811686,
+            "current_price": 72.99,
+            "subreddit_change_1d_pct": 0.16,
+            "marketcap_change_1d_pct": -5.98,
+            "subreddit_change_7d_pct": 0.9,
+            "marketcap_change_7d_pct": -27.69
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 677,
+            "timestamp": "2026-02-11 15:30:31",
+            "ticker": "PGY",
+            "current_market_cap": 1099816396,
+            "current_price": 13.68,
+            "subreddit_change_1d_pct": 0.59,
+            "marketcap_change_1d_pct": -3.59,
+            "subreddit_change_7d_pct": 3.2,
+            "marketcap_change_7d_pct": -22.05
+        }
     }
 }
