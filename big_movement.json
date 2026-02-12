@@ -7795,5 +7795,31 @@
             "subreddit_change_7d_pct": 3.2,
             "marketcap_change_7d_pct": -22.05
         }
+    },
+    "2026-02-12": {
+        "mondaydotcom": {
+            "subreddit_Name": "mondaydotcom",
+            "subreddit_Count": 6969,
+            "timestamp": "2026-02-12 15:30:21",
+            "ticker": "MNDY",
+            "current_market_cap": 3711022833,
+            "current_price": 71.99,
+            "subreddit_change_1d_pct": 0.16,
+            "marketcap_change_1d_pct": -1.38,
+            "subreddit_change_7d_pct": 0.91,
+            "marketcap_change_7d_pct": -30.26
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 683,
+            "timestamp": "2026-02-12 15:30:25",
+            "ticker": "PGY",
+            "current_market_cap": 1034695711,
+            "current_price": 12.87,
+            "subreddit_change_1d_pct": 0.89,
+            "marketcap_change_1d_pct": -5.92,
+            "subreddit_change_7d_pct": 3.64,
+            "marketcap_change_7d_pct": -29.05
+        }
     }
 }
