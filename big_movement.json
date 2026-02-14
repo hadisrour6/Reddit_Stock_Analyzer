@@ -7895,5 +7895,55 @@
             "subreddit_change_7d_pct": 4.39,
             "marketcap_change_7d_pct": -25.53
         }
+    },
+    "2026-02-14": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 5099,
+            "timestamp": "2026-02-14 15:30:05",
+            "ticker": "RDW",
+            "current_market_cap": 1324509291,
+            "current_price": 8.02,
+            "subreddit_change_1d_pct": 0.2,
+            "marketcap_change_1d_pct": 1.65,
+            "subreddit_change_7d_pct": 1.74,
+            "marketcap_change_7d_pct": -20.12
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4549,
+            "timestamp": "2026-02-14 15:30:24",
+            "ticker": "BITF",
+            "current_market_cap": 1589407418,
+            "current_price": 2.64,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -4.75,
+            "subreddit_change_7d_pct": 0.09,
+            "marketcap_change_7d_pct": 20.6
+        },
+        "mondaydotcom": {
+            "subreddit_Name": "mondaydotcom",
+            "subreddit_Count": 6986,
+            "timestamp": "2026-02-14 15:30:27",
+            "ticker": "MNDY",
+            "current_market_cap": 3674973814,
+            "current_price": 71.29,
+            "subreddit_change_1d_pct": 0.13,
+            "marketcap_change_1d_pct": -1.7,
+            "subreddit_change_7d_pct": 0.98,
+            "marketcap_change_7d_pct": -26.14
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 691,
+            "timestamp": "2026-02-14 15:30:31",
+            "ticker": "PGY",
+            "current_market_cap": 999321477,
+            "current_price": 12.43,
+            "subreddit_change_1d_pct": 0.29,
+            "marketcap_change_1d_pct": 0.24,
+            "subreddit_change_7d_pct": 4.38,
+            "marketcap_change_7d_pct": -33.32
+        }
     }
 }
