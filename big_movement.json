@@ -8060,5 +8060,31 @@
             "marketcap_change_7d_pct": -20.52
         }
     },
-    "2026-02-18": {}
+    "2026-02-18": {},
+    "2026-02-19": {
+        "IridiumCommunications": {
+            "subreddit_Name": "IridiumCommunications",
+            "subreddit_Count": 8,
+            "timestamp": "2026-02-19 15:30:02",
+            "ticker": "IRDM",
+            "current_market_cap": 2421352445,
+            "current_price": 23.12,
+            "subreddit_change_1d_pct": 14.29,
+            "marketcap_change_1d_pct": -1.95,
+            "subreddit_change_7d_pct": 14.29,
+            "marketcap_change_7d_pct": 25.22
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 10496,
+            "timestamp": "2026-02-19 15:30:24",
+            "ticker": "ONDS",
+            "current_market_cap": 4976667104,
+            "current_price": 11.78,
+            "subreddit_change_1d_pct": 0.5,
+            "marketcap_change_1d_pct": 10.15,
+            "subreddit_change_7d_pct": 2.22,
+            "marketcap_change_7d_pct": 27.59
+        }
+    }
 }
