@@ -8166,5 +8166,43 @@
             "subreddit_change_7d_pct": 14.29,
             "marketcap_change_7d_pct": -1.08
         }
+    },
+    "2026-02-24": {
+        "IridiumCommunications": {
+            "subreddit_Name": "IridiumCommunications",
+            "subreddit_Count": 8,
+            "timestamp": "2026-02-24 15:30:03",
+            "ticker": "IRDM",
+            "current_market_cap": 2432897625,
+            "current_price": 23.23,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 1.13,
+            "subreddit_change_7d_pct": 14.29,
+            "marketcap_change_7d_pct": 0.04
+        },
+        "ROOTStonk": {
+            "subreddit_Name": "ROOTStonk",
+            "subreddit_Count": 545,
+            "timestamp": "2026-02-24 15:30:17",
+            "ticker": "ROOT",
+            "current_market_cap": 841952971,
+            "current_price": 54.28,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -10.26,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -7.45
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 707,
+            "timestamp": "2026-02-24 15:30:25",
+            "ticker": "PGY",
+            "current_market_cap": 855412803,
+            "current_price": 10.64,
+            "subreddit_change_1d_pct": 0.86,
+            "marketcap_change_1d_pct": -10.51,
+            "subreddit_change_7d_pct": 2.32,
+            "marketcap_change_7d_pct": -14.4
+        }
     }
 }
