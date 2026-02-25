@@ -8204,5 +8204,31 @@
             "subreddit_change_7d_pct": 2.32,
             "marketcap_change_7d_pct": -14.4
         }
+    },
+    "2026-02-25": {
+        "IridiumCommunications": {
+            "subreddit_Name": "IridiumCommunications",
+            "subreddit_Count": 8,
+            "timestamp": "2026-02-25 15:30:03",
+            "ticker": "IRDM",
+            "current_market_cap": 2509516083,
+            "current_price": 23.96,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 3.15,
+            "subreddit_change_7d_pct": 14.29,
+            "marketcap_change_7d_pct": 1.61
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 7105,
+            "timestamp": "2026-02-25 15:30:19",
+            "ticker": "APLD",
+            "current_market_cap": 109246242,
+            "current_price": 0.39,
+            "subreddit_change_1d_pct": 0.11,
+            "marketcap_change_1d_pct": -98.7,
+            "subreddit_change_7d_pct": 0.98,
+            "marketcap_change_7d_pct": -98.84
+        }
     }
 }
