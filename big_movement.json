@@ -8230,5 +8230,55 @@
             "subreddit_change_7d_pct": 0.98,
             "marketcap_change_7d_pct": -98.84
         }
+    },
+    "2026-02-26": {
+        "talosenergy": {
+            "subreddit_Name": "talosenergy",
+            "subreddit_Count": 29,
+            "timestamp": "2026-02-26 15:30:14",
+            "ticker": "TALO",
+            "current_market_cap": 1925972746,
+            "current_price": 11.33,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -13.71,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -13.71
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 7122,
+            "timestamp": "2026-02-26 15:30:20",
+            "ticker": "APLD",
+            "current_market_cap": 8130355490,
+            "current_price": 29.08,
+            "subreddit_change_1d_pct": 0.24,
+            "marketcap_change_1d_pct": 7342.23,
+            "subreddit_change_7d_pct": 1.08,
+            "marketcap_change_7d_pct": -8.87
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4555,
+            "timestamp": "2026-02-26 15:30:21",
+            "ticker": "BITF",
+            "current_market_cap": 1787376399,
+            "current_price": 2.97,
+            "subreddit_change_1d_pct": 0.02,
+            "marketcap_change_1d_pct": 13.26,
+            "subreddit_change_7d_pct": 0.07,
+            "marketcap_change_7d_pct": 10.49
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4658,
+            "timestamp": "2026-02-26 15:30:22",
+            "ticker": "UAMY",
+            "current_market_cap": 1281325814,
+            "current_price": 9.15,
+            "subreddit_change_1d_pct": 0.06,
+            "marketcap_change_1d_pct": 9.32,
+            "subreddit_change_7d_pct": 0.45,
+            "marketcap_change_7d_pct": 22.82
+        }
     }
 }
