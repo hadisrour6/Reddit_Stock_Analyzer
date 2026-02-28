@@ -8306,5 +8306,43 @@
             "subreddit_change_7d_pct": 1.19,
             "marketcap_change_7d_pct": 12.92
         }
+    },
+    "2026-02-28": {
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1277,
+            "timestamp": "2026-02-28 15:30:17",
+            "ticker": "ABCL",
+            "current_market_cap": 1094409349,
+            "current_price": 3.66,
+            "subreddit_change_1d_pct": 0.16,
+            "marketcap_change_1d_pct": 0.56,
+            "subreddit_change_7d_pct": 1.03,
+            "marketcap_change_7d_pct": 20.27
+        },
+        "ROOTStonk": {
+            "subreddit_Name": "ROOTStonk",
+            "subreddit_Count": 546,
+            "timestamp": "2026-02-28 15:30:18",
+            "ticker": "ROOT",
+            "current_market_cap": 804281362,
+            "current_price": 51.86,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -10.12,
+            "subreddit_change_7d_pct": 0.18,
+            "marketcap_change_7d_pct": -14.28
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4660,
+            "timestamp": "2026-02-28 15:30:21",
+            "ticker": "UAMY",
+            "current_market_cap": 1251918367,
+            "current_price": 8.94,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.34,
+            "subreddit_change_7d_pct": 0.34,
+            "marketcap_change_7d_pct": 20.97
+        }
     }
 }
