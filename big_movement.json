@@ -8344,5 +8344,31 @@
             "subreddit_change_7d_pct": 0.34,
             "marketcap_change_7d_pct": 20.97
         }
+    },
+    "2026-03-01": {
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1278,
+            "timestamp": "2026-03-01 15:30:16",
+            "ticker": "ABCL",
+            "current_market_cap": 1094409349,
+            "current_price": 3.66,
+            "subreddit_change_1d_pct": 0.08,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 1.03,
+            "marketcap_change_7d_pct": 20.27
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4663,
+            "timestamp": "2026-03-01 15:30:20",
+            "ticker": "UAMY",
+            "current_market_cap": 1251918367,
+            "current_price": 8.94,
+            "subreddit_change_1d_pct": 0.06,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.39,
+            "marketcap_change_7d_pct": 20.97
+        }
     }
 }
