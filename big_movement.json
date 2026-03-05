@@ -8484,5 +8484,43 @@
             "subreddit_change_7d_pct": 0.93,
             "marketcap_change_7d_pct": 7142.61
         }
+    },
+    "2026-03-05": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 5236,
+            "timestamp": "2026-03-05 15:30:03",
+            "ticker": "RDW",
+            "current_market_cap": 1781535381,
+            "current_price": 9.28,
+            "subreddit_change_1d_pct": 0.15,
+            "marketcap_change_1d_pct": 1.29,
+            "subreddit_change_7d_pct": 0.77,
+            "marketcap_change_7d_pct": 25.14
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1120,
+            "timestamp": "2026-03-05 15:30:14",
+            "ticker": "BKSY",
+            "current_market_cap": 874620141,
+            "current_price": 24.34,
+            "subreddit_change_1d_pct": 0.09,
+            "marketcap_change_1d_pct": 2.75,
+            "subreddit_change_7d_pct": 0.45,
+            "marketcap_change_7d_pct": 20.36
+        },
+        "ROOTStonk": {
+            "subreddit_Name": "ROOTStonk",
+            "subreddit_Count": 548,
+            "timestamp": "2026-03-05 15:30:17",
+            "ticker": "ROOT",
+            "current_market_cap": 754672614,
+            "current_price": 48.53,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -1.23,
+            "subreddit_change_7d_pct": 0.55,
+            "marketcap_change_7d_pct": -20.31
+        }
     }
 }
