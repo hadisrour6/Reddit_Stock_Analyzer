@@ -8522,5 +8522,43 @@
             "subreddit_change_7d_pct": 0.55,
             "marketcap_change_7d_pct": -20.31
         }
+    },
+    "2026-03-06": {
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1121,
+            "timestamp": "2026-03-06 15:30:20",
+            "ticker": "BKSY",
+            "current_market_cap": 876779695,
+            "current_price": 24.4,
+            "subreddit_change_1d_pct": 0.09,
+            "marketcap_change_1d_pct": 0.25,
+            "subreddit_change_7d_pct": 0.54,
+            "marketcap_change_7d_pct": 21.86
+        },
+        "TheTradeDesk": {
+            "subreddit_Name": "TheTradeDesk",
+            "subreddit_Count": 601,
+            "timestamp": "2026-03-06 15:30:25",
+            "ticker": "TTD",
+            "current_market_cap": 14179367033,
+            "current_price": 29.79,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 16.53,
+            "subreddit_change_7d_pct": 0.33,
+            "marketcap_change_7d_pct": 22.42
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4561,
+            "timestamp": "2026-03-06 15:30:28",
+            "ticker": "BITF",
+            "current_market_cap": 1736470024,
+            "current_price": 2.88,
+            "subreddit_change_1d_pct": 0.02,
+            "marketcap_change_1d_pct": 12.87,
+            "subreddit_change_7d_pct": 0.13,
+            "marketcap_change_7d_pct": -2.85
+        }
     }
 }
