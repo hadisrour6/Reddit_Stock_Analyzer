@@ -8560,5 +8560,43 @@
             "subreddit_change_7d_pct": 0.13,
             "marketcap_change_7d_pct": -2.85
         }
+    },
+    "2026-03-07": {
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1124,
+            "timestamp": "2026-03-07 15:30:20",
+            "ticker": "BKSY",
+            "current_market_cap": 854104406,
+            "current_price": 23.77,
+            "subreddit_change_1d_pct": 0.27,
+            "marketcap_change_1d_pct": -2.59,
+            "subreddit_change_7d_pct": 0.81,
+            "marketcap_change_7d_pct": 25.89
+        },
+        "TheTradeDesk": {
+            "subreddit_Name": "TheTradeDesk",
+            "subreddit_Count": 601,
+            "timestamp": "2026-03-07 15:30:25",
+            "ticker": "TTD",
+            "current_market_cap": 13936618940,
+            "current_price": 29.28,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -1.71,
+            "subreddit_change_7d_pct": 0.33,
+            "marketcap_change_7d_pct": 20.99
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 7201,
+            "timestamp": "2026-03-07 15:30:26",
+            "ticker": "APLD",
+            "current_market_cap": 7028787438,
+            "current_price": 25.14,
+            "subreddit_change_1d_pct": 0.11,
+            "marketcap_change_1d_pct": -10.5,
+            "subreddit_change_7d_pct": 0.84,
+            "marketcap_change_7d_pct": -7.81
+        }
     }
 }
