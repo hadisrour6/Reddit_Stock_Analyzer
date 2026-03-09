@@ -8636,5 +8636,43 @@
             "subreddit_change_7d_pct": 0.33,
             "marketcap_change_7d_pct": 20.99
         }
+    },
+    "2026-03-09": {
+        "IridiumCommunications": {
+            "subreddit_Name": "IridiumCommunications",
+            "subreddit_Count": 9,
+            "timestamp": "2026-03-09 15:30:03",
+            "ticker": "IRDM",
+            "current_market_cap": 2520011805,
+            "current_price": 24.01,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 12.5,
+            "marketcap_change_7d_pct": 0.25
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1129,
+            "timestamp": "2026-03-09 15:30:17",
+            "ticker": "BKSY",
+            "current_market_cap": 854104369,
+            "current_price": 23.77,
+            "subreddit_change_1d_pct": 0.18,
+            "marketcap_change_1d_pct": -0.0,
+            "subreddit_change_7d_pct": 0.98,
+            "marketcap_change_7d_pct": 25.89
+        },
+        "TheTradeDesk": {
+            "subreddit_Name": "TheTradeDesk",
+            "subreddit_Count": 601,
+            "timestamp": "2026-03-09 15:30:21",
+            "ticker": "TTD",
+            "current_market_cap": 13936618940,
+            "current_price": 29.28,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.33,
+            "marketcap_change_7d_pct": 20.99
+        }
     }
 }
