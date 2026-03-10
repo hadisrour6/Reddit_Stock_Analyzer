@@ -8674,5 +8674,31 @@
             "subreddit_change_7d_pct": 0.33,
             "marketcap_change_7d_pct": 20.99
         }
+    },
+    "2026-03-10": {
+        "IridiumCommunications": {
+            "subreddit_Name": "IridiumCommunications",
+            "subreddit_Count": 9,
+            "timestamp": "2026-03-10 15:30:03",
+            "ticker": "IRDM",
+            "current_market_cap": 2544151756,
+            "current_price": 24.24,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.96,
+            "subreddit_change_7d_pct": 12.5,
+            "marketcap_change_7d_pct": 1.25
+        },
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 5251,
+            "timestamp": "2026-03-10 15:30:04",
+            "ticker": "RDW",
+            "current_market_cap": 1852566393,
+            "current_price": 9.65,
+            "subreddit_change_1d_pct": 0.06,
+            "marketcap_change_1d_pct": 12.87,
+            "subreddit_change_7d_pct": 0.54,
+            "marketcap_change_7d_pct": 10.54
+        }
     }
 }
