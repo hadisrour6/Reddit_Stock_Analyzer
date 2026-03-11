@@ -8700,5 +8700,43 @@
             "subreddit_change_7d_pct": 0.54,
             "marketcap_change_7d_pct": 10.54
         }
+    },
+    "2026-03-11": {
+        "IridiumCommunications": {
+            "subreddit_Name": "IridiumCommunications",
+            "subreddit_Count": 9,
+            "timestamp": "2026-03-11 15:30:03",
+            "ticker": "IRDM",
+            "current_market_cap": 2606076241,
+            "current_price": 24.83,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 2.43,
+            "subreddit_change_7d_pct": 12.5,
+            "marketcap_change_7d_pct": 1.67
+        },
+        "BBIO": {
+            "subreddit_Name": "BBIO",
+            "subreddit_Count": 96,
+            "timestamp": "2026-03-11 15:30:06",
+            "ticker": "BBIO",
+            "current_market_cap": 14407888309,
+            "current_price": 74.32,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 13.22,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": 15.12
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4717,
+            "timestamp": "2026-03-11 15:30:21",
+            "ticker": "UAMY",
+            "current_market_cap": 1572600007,
+            "current_price": 11.23,
+            "subreddit_change_1d_pct": 0.23,
+            "marketcap_change_1d_pct": 16.98,
+            "subreddit_change_7d_pct": 0.86,
+            "marketcap_change_7d_pct": 13.78
+        }
     }
 }
