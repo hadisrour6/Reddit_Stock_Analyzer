@@ -8752,5 +8752,19 @@
             "subreddit_change_7d_pct": 12.5,
             "marketcap_change_7d_pct": 1.18
         }
+    },
+    "2026-03-13": {
+        "IridiumCommunications": {
+            "subreddit_Name": "IridiumCommunications",
+            "subreddit_Count": 9,
+            "timestamp": "2026-03-13 15:30:02",
+            "ticker": "IRDM",
+            "current_market_cap": 2600828347,
+            "current_price": 24.78,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -0.08,
+            "subreddit_change_7d_pct": 12.5,
+            "marketcap_change_7d_pct": 3.47
+        }
     }
 }
