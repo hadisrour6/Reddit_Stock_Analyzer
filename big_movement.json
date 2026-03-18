@@ -8796,5 +8796,19 @@
             "subreddit_change_7d_pct": 0.66,
             "marketcap_change_7d_pct": 6.82
         }
+    },
+    "2026-03-18": {
+        "TheTradeDesk": {
+            "subreddit_Name": "TheTradeDesk",
+            "subreddit_Count": 605,
+            "timestamp": "2026-03-18 15:30:23",
+            "ticker": "TTD",
+            "current_market_cap": 11932753590,
+            "current_price": 25.07,
+            "subreddit_change_1d_pct": 0.33,
+            "marketcap_change_1d_pct": -10.77,
+            "subreddit_change_7d_pct": 0.67,
+            "marketcap_change_7d_pct": -9.36
+        }
     }
 }
