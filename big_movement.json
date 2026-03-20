@@ -8824,5 +8824,19 @@
             "subreddit_change_7d_pct": 0.36,
             "marketcap_change_7d_pct": -21.03
         }
+    },
+    "2026-03-20": {
+        "sailpoint": {
+            "subreddit_Name": "sailpoint",
+            "subreddit_Count": 2208,
+            "timestamp": "2026-03-20 15:30:27",
+            "ticker": "SAIL",
+            "current_market_cap": 6930461686,
+            "current_price": 12.34,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -1.04,
+            "subreddit_change_7d_pct": 0.32,
+            "marketcap_change_7d_pct": -20.28
+        }
     }
 }
