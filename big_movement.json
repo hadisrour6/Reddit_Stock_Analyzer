@@ -8876,5 +8876,31 @@
             "subreddit_change_7d_pct": 0.36,
             "marketcap_change_7d_pct": -20.71
         }
+    },
+    "2026-03-22": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 6429,
+            "timestamp": "2026-03-22 15:30:02",
+            "ticker": "PL",
+            "current_market_cap": 11460040932,
+            "current_price": 33.6,
+            "subreddit_change_1d_pct": 0.14,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 2.32,
+            "marketcap_change_7d_pct": 36.47
+        },
+        "sailpoint": {
+            "subreddit_Name": "sailpoint",
+            "subreddit_Count": 2209,
+            "timestamp": "2026-03-22 15:30:27",
+            "ticker": "SAIL",
+            "current_market_cap": 6879915307,
+            "current_price": 12.25,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.32,
+            "marketcap_change_7d_pct": -20.71
+        }
     }
 }
