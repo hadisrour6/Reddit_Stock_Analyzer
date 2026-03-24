@@ -8928,5 +8928,31 @@
             "subreddit_change_7d_pct": 0.27,
             "marketcap_change_7d_pct": -20.71
         }
+    },
+    "2026-03-24": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 6454,
+            "timestamp": "2026-03-24 15:30:01",
+            "ticker": "PL",
+            "current_market_cap": 11456654403,
+            "current_price": 33.59,
+            "subreddit_change_1d_pct": 0.16,
+            "marketcap_change_1d_pct": -0.03,
+            "subreddit_change_7d_pct": 2.43,
+            "marketcap_change_7d_pct": 29.21
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4758,
+            "timestamp": "2026-03-24 15:30:26",
+            "ticker": "UAMY",
+            "current_market_cap": 1281745056,
+            "current_price": 9.15,
+            "subreddit_change_1d_pct": 0.15,
+            "marketcap_change_1d_pct": 12.17,
+            "subreddit_change_7d_pct": 0.44,
+            "marketcap_change_7d_pct": -10.75
+        }
     }
 }
