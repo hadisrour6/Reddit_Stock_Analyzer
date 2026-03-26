@@ -8955,5 +8955,43 @@
             "marketcap_change_7d_pct": -10.75
         }
     },
-    "2026-03-25": {}
+    "2026-03-25": {},
+    "2026-03-26": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 6497,
+            "timestamp": "2026-03-26 15:30:02",
+            "ticker": "PL",
+            "current_market_cap": 12043695915,
+            "current_price": 35.31,
+            "subreddit_change_1d_pct": 0.46,
+            "marketcap_change_1d_pct": 11.7,
+            "subreddit_change_7d_pct": 2.74,
+            "marketcap_change_7d_pct": 43.3
+        },
+        "IridiumCommunications": {
+            "subreddit_Name": "IridiumCommunications",
+            "subreddit_Count": 9,
+            "timestamp": "2026-03-26 15:30:04",
+            "ticker": "IRDM",
+            "current_market_cap": 3115116526,
+            "current_price": 29.68,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 10.62,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": 16.3
+        },
+        "GSAT": {
+            "subreddit_Name": "GSAT",
+            "subreddit_Count": 7299,
+            "timestamp": "2026-03-26 15:30:08",
+            "ticker": "GSAT",
+            "current_market_cap": 8661992245,
+            "current_price": 67.38,
+            "subreddit_change_1d_pct": 0.01,
+            "marketcap_change_1d_pct": 10.3,
+            "subreddit_change_7d_pct": 0.04,
+            "marketcap_change_7d_pct": 14.83
+        }
+    }
 }
