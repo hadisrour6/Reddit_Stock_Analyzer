@@ -9031,5 +9031,19 @@
             "subreddit_change_7d_pct": 0.42,
             "marketcap_change_7d_pct": -0.54
         }
+    },
+    "2026-03-28": {
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1159,
+            "timestamp": "2026-03-28 15:30:16",
+            "ticker": "BKSY",
+            "current_market_cap": 861609152,
+            "current_price": 23.98,
+            "subreddit_change_1d_pct": 0.09,
+            "marketcap_change_1d_pct": -17.24,
+            "subreddit_change_7d_pct": 1.85,
+            "marketcap_change_7d_pct": -10.73
+        }
     }
 }
