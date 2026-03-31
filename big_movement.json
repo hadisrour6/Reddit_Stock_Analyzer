@@ -9047,5 +9047,67 @@
         }
     },
     "2026-03-29": {},
-    "2026-03-30": {}
+    "2026-03-30": {},
+    "2026-03-31": {
+        "Vikingtherapeutics": {
+            "subreddit_Name": "Vikingtherapeutics",
+            "subreddit_Count": 401,
+            "timestamp": "2026-03-31 15:30:13",
+            "ticker": "VKTX",
+            "current_market_cap": 3624938391,
+            "current_price": 31.37,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -11.96,
+            "subreddit_change_7d_pct": 0.75,
+            "marketcap_change_7d_pct": -11.96
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1164,
+            "timestamp": "2026-03-31 15:30:16",
+            "ticker": "BKSY",
+            "current_market_cap": 810556363,
+            "current_price": 22.56,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -5.93,
+            "subreddit_change_7d_pct": 1.66,
+            "marketcap_change_7d_pct": -21.02
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 11880,
+            "timestamp": "2026-03-31 15:30:17",
+            "ticker": "ONDS",
+            "current_market_cap": 3776106392,
+            "current_price": 8.39,
+            "subreddit_change_1d_pct": 0.3,
+            "marketcap_change_1d_pct": -7.39,
+            "subreddit_change_7d_pct": 2.17,
+            "marketcap_change_7d_pct": -24.83
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 7349,
+            "timestamp": "2026-03-31 15:30:21",
+            "ticker": "APLD",
+            "current_market_cap": 5744090633,
+            "current_price": 20.54,
+            "subreddit_change_1d_pct": 0.19,
+            "marketcap_change_1d_pct": -13.53,
+            "subreddit_change_7d_pct": 0.85,
+            "marketcap_change_7d_pct": -24.63
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4769,
+            "timestamp": "2026-03-31 15:30:23",
+            "ticker": "UAMY",
+            "current_market_cap": 1128337112,
+            "current_price": 8.06,
+            "subreddit_change_1d_pct": 0.06,
+            "marketcap_change_1d_pct": -10.06,
+            "subreddit_change_7d_pct": 0.23,
+            "marketcap_change_7d_pct": -11.97
+        }
+    }
 }
