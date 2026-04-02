@@ -9195,5 +9195,55 @@
             "subreddit_change_7d_pct": 0.25,
             "marketcap_change_7d_pct": -5.93
         }
+    },
+    "2026-04-02": {
+        "ROOTStonk": {
+            "subreddit_Name": "ROOTStonk",
+            "subreddit_Count": 551,
+            "timestamp": "2026-04-02 15:30:23",
+            "ticker": "ROOT",
+            "current_market_cap": 594755784,
+            "current_price": 38.25,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -13.4,
+            "subreddit_change_7d_pct": 0.18,
+            "marketcap_change_7d_pct": -18.79
+        },
+        "TheTradeDesk": {
+            "subreddit_Name": "TheTradeDesk",
+            "subreddit_Count": 610,
+            "timestamp": "2026-04-02 15:30:24",
+            "ticker": "TTD",
+            "current_market_cap": 9514438640,
+            "current_price": 19.99,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -11.9,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -9.02
+        },
+        "UiPath": {
+            "subreddit_Name": "UiPath",
+            "subreddit_Count": 9201,
+            "timestamp": "2026-04-02 15:30:29",
+            "ticker": "PATH",
+            "current_market_cap": 5060725620,
+            "current_price": 9.46,
+            "subreddit_change_1d_pct": 0.08,
+            "marketcap_change_1d_pct": -12.98,
+            "subreddit_change_7d_pct": 0.27,
+            "marketcap_change_7d_pct": -13.42
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 724,
+            "timestamp": "2026-04-02 15:30:32",
+            "ticker": "PGY",
+            "current_market_cap": 833483430,
+            "current_price": 10.1,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -13.31,
+            "subreddit_change_7d_pct": 0.14,
+            "marketcap_change_7d_pct": -12.86
+        }
     }
 }
