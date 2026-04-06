@@ -9371,5 +9371,31 @@
             "subreddit_change_7d_pct": 0.34,
             "marketcap_change_7d_pct": 32.29
         }
+    },
+    "2026-04-06": {
+        "GSAT": {
+            "subreddit_Name": "GSAT",
+            "subreddit_Count": 7309,
+            "timestamp": "2026-04-06 15:30:06",
+            "ticker": "GSAT",
+            "current_market_cap": 9992502420,
+            "current_price": 77.73,
+            "subreddit_change_1d_pct": 0.03,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.12,
+            "marketcap_change_7d_pct": 21.15
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1166,
+            "timestamp": "2026-04-06 15:30:16",
+            "ticker": "BKSY",
+            "current_market_cap": 1139809788,
+            "current_price": 31.72,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.17,
+            "marketcap_change_7d_pct": 32.29
+        }
     }
 }
