@@ -9607,5 +9607,31 @@
             "subreddit_change_7d_pct": 0.55,
             "marketcap_change_7d_pct": 22.48
         }
+    },
+    "2026-04-10": {
+        "ROOTStonk": {
+            "subreddit_Name": "ROOTStonk",
+            "subreddit_Count": 552,
+            "timestamp": "2026-04-10 15:30:19",
+            "ticker": "ROOT",
+            "current_market_cap": 724866774,
+            "current_price": 46.62,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 0.39,
+            "subreddit_change_7d_pct": 0.18,
+            "marketcap_change_7d_pct": 22.02
+        },
+        "sailpoint": {
+            "subreddit_Name": "sailpoint",
+            "subreddit_Count": 2233,
+            "timestamp": "2026-04-10 15:30:34",
+            "ticker": "SAIL",
+            "current_market_cap": 6235666266,
+            "current_price": 11.06,
+            "subreddit_change_1d_pct": 0.04,
+            "marketcap_change_1d_pct": -10.88,
+            "subreddit_change_7d_pct": 0.45,
+            "marketcap_change_7d_pct": -14.86
+        }
     }
 }
