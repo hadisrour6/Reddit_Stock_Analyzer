@@ -9650,5 +9650,31 @@
             "subreddit_change_7d_pct": 0.44,
             "marketcap_change_7d_pct": 12.2
         }
+    },
+    "2026-04-15": {
+        "CleanSpark": {
+            "subreddit_Name": "CleanSpark",
+            "subreddit_Count": 5884,
+            "timestamp": "2026-04-15 15:30:17",
+            "ticker": "CLSK",
+            "current_market_cap": 2882335235,
+            "current_price": 11.27,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 4.74,
+            "subreddit_change_7d_pct": 0.12,
+            "marketcap_change_7d_pct": 24.39
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 7499,
+            "timestamp": "2026-04-15 15:30:23",
+            "ticker": "APLD",
+            "current_market_cap": 8993167273,
+            "current_price": 32.17,
+            "subreddit_change_1d_pct": 0.23,
+            "marketcap_change_1d_pct": 14.02,
+            "subreddit_change_7d_pct": 1.39,
+            "marketcap_change_7d_pct": 27.74
+        }
     }
 }
