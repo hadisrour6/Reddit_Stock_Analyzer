@@ -10046,5 +10046,43 @@
             "subreddit_change_7d_pct": 0.82,
             "marketcap_change_7d_pct": 28.23
         }
+    },
+    "2026-04-21": {
+        "ROOTStonk": {
+            "subreddit_Name": "ROOTStonk",
+            "subreddit_Count": 552,
+            "timestamp": "2026-04-21 15:30:19",
+            "ticker": "ROOT",
+            "current_market_cap": 865579903,
+            "current_price": 55.66,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 1.77,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": 22.14
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4580,
+            "timestamp": "2026-04-21 15:30:22",
+            "ticker": "BITF",
+            "current_market_cap": 2356680000,
+            "current_price": 3.91,
+            "subreddit_change_1d_pct": 0.02,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 0.07,
+            "marketcap_change_7d_pct": 50.96
+        },
+        "Pagaya": {
+            "subreddit_Name": "Pagaya",
+            "subreddit_Count": 736,
+            "timestamp": "2026-04-21 15:30:27",
+            "ticker": "PGY",
+            "current_market_cap": 1243673410,
+            "current_price": 15.07,
+            "subreddit_change_1d_pct": 0.27,
+            "marketcap_change_1d_pct": 0.53,
+            "subreddit_change_7d_pct": 1.1,
+            "marketcap_change_7d_pct": 20.75
+        }
     }
 }
