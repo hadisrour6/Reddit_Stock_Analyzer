@@ -10150,5 +10150,31 @@
             "subreddit_change_7d_pct": 0.8,
             "marketcap_change_7d_pct": 20.8
         }
+    },
+    "2026-04-25": {
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 816,
+            "timestamp": "2026-04-25 15:30:09",
+            "ticker": "NTLA",
+            "current_market_cap": 1610160205,
+            "current_price": 13.63,
+            "subreddit_change_1d_pct": 0.25,
+            "marketcap_change_1d_pct": -14.11,
+            "subreddit_change_7d_pct": 0.25,
+            "marketcap_change_7d_pct": -8.83
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1212,
+            "timestamp": "2026-04-25 15:30:16",
+            "ticker": "BKSY",
+            "current_market_cap": 1255398367,
+            "current_price": 33.94,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": -11.99,
+            "subreddit_change_7d_pct": 1.34,
+            "marketcap_change_7d_pct": -9.68
+        }
     }
 }
