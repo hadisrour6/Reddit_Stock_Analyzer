@@ -10178,5 +10178,19 @@
         }
     },
     "2026-04-26": {},
-    "2026-04-27": {}
+    "2026-04-27": {},
+    "2026-04-28": {
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4827,
+            "timestamp": "2026-04-28 15:30:33",
+            "ticker": "UAMY",
+            "current_market_cap": 1602898172,
+            "current_price": 11.18,
+            "subreddit_change_1d_pct": 0.1,
+            "marketcap_change_1d_pct": 14.78,
+            "subreddit_change_7d_pct": 0.27,
+            "marketcap_change_7d_pct": 5.08
+        }
+    }
 }
