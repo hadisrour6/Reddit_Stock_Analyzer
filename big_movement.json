@@ -10193,5 +10193,55 @@
             "marketcap_change_7d_pct": 5.08
         }
     },
-    "2026-04-29": {}
+    "2026-04-29": {},
+    "2026-04-30": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 5531,
+            "timestamp": "2026-04-30 15:30:04",
+            "ticker": "RDW",
+            "current_market_cap": 1710701168,
+            "current_price": 8.6,
+            "subreddit_change_1d_pct": 0.11,
+            "marketcap_change_1d_pct": -4.87,
+            "subreddit_change_7d_pct": 1.47,
+            "marketcap_change_7d_pct": -27.91
+        },
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 828,
+            "timestamp": "2026-04-30 15:30:10",
+            "ticker": "NTLA",
+            "current_market_cap": 1470171931,
+            "current_price": 12.45,
+            "subreddit_change_1d_pct": 0.12,
+            "marketcap_change_1d_pct": -5.72,
+            "subreddit_change_7d_pct": 1.72,
+            "marketcap_change_7d_pct": -24.89
+        },
+        "sofi": {
+            "subreddit_Name": "sofi",
+            "subreddit_Count": 70264,
+            "timestamp": "2026-04-30 15:30:13",
+            "ticker": "SOFI",
+            "current_market_cap": 19798471810,
+            "current_price": 15.53,
+            "subreddit_change_1d_pct": 0.06,
+            "marketcap_change_1d_pct": -15.44,
+            "subreddit_change_7d_pct": 0.51,
+            "marketcap_change_7d_pct": -18.55
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1220,
+            "timestamp": "2026-04-30 15:30:16",
+            "ticker": "BKSY",
+            "current_market_cap": 1174871816,
+            "current_price": 31.76,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 1.41,
+            "subreddit_change_7d_pct": 0.74,
+            "marketcap_change_7d_pct": -22.13
+        }
+    }
 }
