@@ -10486,5 +10486,55 @@
             "subreddit_change_7d_pct": 0.29,
             "marketcap_change_7d_pct": -8.46
         }
+    },
+    "2026-05-09": {
+        "PlanetLabs": {
+            "subreddit_Name": "PlanetLabs",
+            "subreddit_Count": 6851,
+            "timestamp": "2026-05-09 15:30:02",
+            "ticker": "PL",
+            "current_market_cap": 13513657931,
+            "current_price": 39.04,
+            "subreddit_change_1d_pct": 0.07,
+            "marketcap_change_1d_pct": 10.78,
+            "subreddit_change_7d_pct": 0.75,
+            "marketcap_change_7d_pct": 5.8
+        },
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 5631,
+            "timestamp": "2026-05-09 15:30:05",
+            "ticker": "RDW",
+            "current_market_cap": 2202030314,
+            "current_price": 11.07,
+            "subreddit_change_1d_pct": 0.3,
+            "marketcap_change_1d_pct": 20.33,
+            "subreddit_change_7d_pct": 1.55,
+            "marketcap_change_7d_pct": 18.52
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1242,
+            "timestamp": "2026-05-09 15:30:17",
+            "ticker": "BKSY",
+            "current_market_cap": 1463951225,
+            "current_price": 39.58,
+            "subreddit_change_1d_pct": 0.32,
+            "marketcap_change_1d_pct": 22.36,
+            "subreddit_change_7d_pct": 1.64,
+            "marketcap_change_7d_pct": 10.97
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 7751,
+            "timestamp": "2026-05-09 15:30:22",
+            "ticker": "APLD",
+            "current_market_cap": 11787992817,
+            "current_price": 41.25,
+            "subreddit_change_1d_pct": 0.14,
+            "marketcap_change_1d_pct": -0.67,
+            "subreddit_change_7d_pct": 1.44,
+            "marketcap_change_7d_pct": 22.95
+        }
     }
 }
