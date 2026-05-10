@@ -10536,5 +10536,19 @@
             "subreddit_change_7d_pct": 1.44,
             "marketcap_change_7d_pct": 22.95
         }
+    },
+    "2026-05-10": {
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 7756,
+            "timestamp": "2026-05-10 15:30:21",
+            "ticker": "APLD",
+            "current_market_cap": 11787992817,
+            "current_price": 41.25,
+            "subreddit_change_1d_pct": 0.06,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 1.36,
+            "marketcap_change_7d_pct": 22.95
+        }
     }
 }
