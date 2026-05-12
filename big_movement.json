@@ -10564,5 +10564,31 @@
             "subreddit_change_7d_pct": 1.49,
             "marketcap_change_7d_pct": 22.95
         }
+    },
+    "2026-05-12": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 5672,
+            "timestamp": "2026-05-12 15:30:07",
+            "ticker": "RDW",
+            "current_market_cap": 2418851747,
+            "current_price": 12.16,
+            "subreddit_change_1d_pct": 0.25,
+            "marketcap_change_1d_pct": 9.85,
+            "subreddit_change_7d_pct": 1.83,
+            "marketcap_change_7d_pct": 40.74
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 7791,
+            "timestamp": "2026-05-12 15:30:24",
+            "ticker": "APLD",
+            "current_market_cap": 12742463442,
+            "current_price": 44.59,
+            "subreddit_change_1d_pct": 0.23,
+            "marketcap_change_1d_pct": 8.1,
+            "subreddit_change_7d_pct": 1.46,
+            "marketcap_change_7d_pct": 25.15
+        }
     }
 }
