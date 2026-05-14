@@ -10652,5 +10652,31 @@
             "subreddit_change_7d_pct": 1.48,
             "marketcap_change_7d_pct": -10.4
         }
+    },
+    "2026-05-14": {
+        "IntelliaTherapeutics": {
+            "subreddit_Name": "IntelliaTherapeutics",
+            "subreddit_Count": 831,
+            "timestamp": "2026-05-14 15:30:12",
+            "ticker": "NTLA",
+            "current_market_cap": 1995234046,
+            "current_price": 16.89,
+            "subreddit_change_1d_pct": 0.12,
+            "marketcap_change_1d_pct": 0.18,
+            "subreddit_change_7d_pct": 0.24,
+            "marketcap_change_7d_pct": 21.95
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4862,
+            "timestamp": "2026-05-14 15:30:26",
+            "ticker": "UAMY",
+            "current_market_cap": 1426490466,
+            "current_price": 9.95,
+            "subreddit_change_1d_pct": 0.08,
+            "marketcap_change_1d_pct": -0.07,
+            "subreddit_change_7d_pct": 0.35,
+            "marketcap_change_7d_pct": -21.1
+        }
     }
 }
