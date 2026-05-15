@@ -10678,5 +10678,79 @@
             "subreddit_change_7d_pct": 0.35,
             "marketcap_change_7d_pct": -21.1
         }
+    },
+    "2026-05-15": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 5778,
+            "timestamp": "2026-05-15 15:30:04",
+            "ticker": "RDW",
+            "current_market_cap": 2755004497,
+            "current_price": 13.85,
+            "subreddit_change_1d_pct": 0.89,
+            "marketcap_change_1d_pct": 20.85,
+            "subreddit_change_7d_pct": 2.92,
+            "marketcap_change_7d_pct": 50.54
+        },
+        "BlackskyTechnology": {
+            "subreddit_Name": "BlackskyTechnology",
+            "subreddit_Count": 1252,
+            "timestamp": "2026-05-15 15:30:19",
+            "ticker": "BKSY",
+            "current_market_cap": 1515532692,
+            "current_price": 40.97,
+            "subreddit_change_1d_pct": 0.08,
+            "marketcap_change_1d_pct": -0.75,
+            "subreddit_change_7d_pct": 1.13,
+            "marketcap_change_7d_pct": 26.67
+        },
+        "ONDS": {
+            "subreddit_Name": "ONDS",
+            "subreddit_Count": 12768,
+            "timestamp": "2026-05-15 15:30:20",
+            "ticker": "ONDS",
+            "current_market_cap": 5256531755,
+            "current_price": 10.91,
+            "subreddit_change_1d_pct": 0.36,
+            "marketcap_change_1d_pct": 22.29,
+            "subreddit_change_7d_pct": 1.84,
+            "marketcap_change_7d_pct": 21.88
+        },
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1407,
+            "timestamp": "2026-05-15 15:30:21",
+            "ticker": "ABCL",
+            "current_market_cap": 1229135998,
+            "current_price": 4.05,
+            "subreddit_change_1d_pct": 0.14,
+            "marketcap_change_1d_pct": -15.62,
+            "subreddit_change_7d_pct": 1.88,
+            "marketcap_change_7d_pct": -15.88
+        },
+        "UAMY": {
+            "subreddit_Name": "UAMY",
+            "subreddit_Count": 4867,
+            "timestamp": "2026-05-15 15:30:28",
+            "ticker": "UAMY",
+            "current_market_cap": 1229056673,
+            "current_price": 8.57,
+            "subreddit_change_1d_pct": 0.1,
+            "marketcap_change_1d_pct": -13.84,
+            "subreddit_change_7d_pct": 0.37,
+            "marketcap_change_7d_pct": -22.03
+        },
+        "sailpoint": {
+            "subreddit_Name": "sailpoint",
+            "subreddit_Count": 2281,
+            "timestamp": "2026-05-15 15:30:34",
+            "ticker": "SAIL",
+            "current_market_cap": 7680193291,
+            "current_price": 13.62,
+            "subreddit_change_1d_pct": 0.09,
+            "marketcap_change_1d_pct": 14.65,
+            "subreddit_change_7d_pct": 0.44,
+            "marketcap_change_7d_pct": 11.75
+        }
     }
 }
