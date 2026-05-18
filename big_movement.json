@@ -10804,5 +10804,31 @@
             "subreddit_change_7d_pct": 1.58,
             "marketcap_change_7d_pct": -21.38
         }
+    },
+    "2026-05-18": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 5860,
+            "timestamp": "2026-05-18 15:30:07",
+            "ticker": "RDW",
+            "current_market_cap": 2796797451,
+            "current_price": 14.06,
+            "subreddit_change_1d_pct": 0.64,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 3.57,
+            "marketcap_change_7d_pct": 27.01
+        },
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1413,
+            "timestamp": "2026-05-18 15:30:40",
+            "ticker": "ABCL",
+            "current_market_cap": 1248985419,
+            "current_price": 4.12,
+            "subreddit_change_1d_pct": 0.14,
+            "marketcap_change_1d_pct": 0.0,
+            "subreddit_change_7d_pct": 1.36,
+            "marketcap_change_7d_pct": -21.38
+        }
     }
 }
