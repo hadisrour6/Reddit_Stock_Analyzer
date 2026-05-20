@@ -10928,5 +10928,55 @@
             "subreddit_change_7d_pct": 0.4,
             "marketcap_change_7d_pct": 26.38
         }
+    },
+    "2026-05-20": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 5912,
+            "timestamp": "2026-05-20 15:30:04",
+            "ticker": "RDW",
+            "current_market_cap": 2728170374,
+            "current_price": 13.71,
+            "subreddit_change_1d_pct": 0.37,
+            "marketcap_change_1d_pct": -2.63,
+            "subreddit_change_7d_pct": 4.01,
+            "marketcap_change_7d_pct": 21.43
+        },
+        "Viasat": {
+            "subreddit_Name": "Viasat",
+            "subreddit_Count": 800,
+            "timestamp": "2026-05-20 15:30:05",
+            "ticker": "VSAT",
+            "current_market_cap": 9637240000,
+            "current_price": 70.95,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 11.05,
+            "subreddit_change_7d_pct": 0.13,
+            "marketcap_change_7d_pct": 11.05
+        },
+        "BitfarmsMining": {
+            "subreddit_Name": "BitfarmsMining",
+            "subreddit_Count": 4588,
+            "timestamp": "2026-05-20 15:30:23",
+            "ticker": "BITF",
+            "current_market_cap": 3488230000,
+            "current_price": 5.79,
+            "subreddit_change_1d_pct": 0.02,
+            "marketcap_change_1d_pct": 48.01,
+            "subreddit_change_7d_pct": 0.04,
+            "marketcap_change_7d_pct": 48.01
+        },
+        "sailpoint": {
+            "subreddit_Name": "sailpoint",
+            "subreddit_Count": 2286,
+            "timestamp": "2026-05-20 15:30:30",
+            "ticker": "SAIL",
+            "current_market_cap": 8071576810,
+            "current_price": 14.23,
+            "subreddit_change_1d_pct": 0.04,
+            "marketcap_change_1d_pct": -3.75,
+            "subreddit_change_7d_pct": 0.35,
+            "marketcap_change_7d_pct": 23.47
+        }
     }
 }
