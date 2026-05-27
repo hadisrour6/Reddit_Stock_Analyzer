@@ -11362,5 +11362,55 @@
             "subreddit_change_7d_pct": 0.73,
             "marketcap_change_7d_pct": -27.57
         }
+    },
+    "2026-05-27": {
+        "redwire": {
+            "subreddit_Name": "redwire",
+            "subreddit_Count": 6316,
+            "timestamp": "2026-05-27 15:30:09",
+            "ticker": "RDW",
+            "current_market_cap": 4384169029,
+            "current_price": 22.04,
+            "subreddit_change_1d_pct": 2.7,
+            "marketcap_change_1d_pct": -0.99,
+            "subreddit_change_7d_pct": 6.83,
+            "marketcap_change_7d_pct": 60.7
+        },
+        "ABCL": {
+            "subreddit_Name": "ABCL",
+            "subreddit_Count": 1438,
+            "timestamp": "2026-05-27 15:30:24",
+            "ticker": "ABCL",
+            "current_market_cap": 1615435837,
+            "current_price": 5.29,
+            "subreddit_change_1d_pct": 0.35,
+            "marketcap_change_1d_pct": -1.31,
+            "subreddit_change_7d_pct": 1.7,
+            "marketcap_change_7d_pct": 26.87
+        },
+        "APLDSTOCK": {
+            "subreddit_Name": "APLDSTOCK",
+            "subreddit_Count": 7988,
+            "timestamp": "2026-05-27 15:30:27",
+            "ticker": "APLD",
+            "current_market_cap": 12899636466,
+            "current_price": 45.14,
+            "subreddit_change_1d_pct": 0.15,
+            "marketcap_change_1d_pct": -2.12,
+            "subreddit_change_7d_pct": 1.47,
+            "marketcap_change_7d_pct": 23.05
+        },
+        "Tigr_Stock": {
+            "subreddit_Name": "Tigr_Stock",
+            "subreddit_Count": 138,
+            "timestamp": "2026-05-27 15:30:33",
+            "ticker": "TIGR",
+            "current_market_cap": 890907714,
+            "current_price": 0.32,
+            "subreddit_change_1d_pct": 0.0,
+            "marketcap_change_1d_pct": 14.91,
+            "subreddit_change_7d_pct": 0.0,
+            "marketcap_change_7d_pct": -13.92
+        }
     }
 }
